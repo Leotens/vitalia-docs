@@ -46,7 +46,7 @@ KinetiaLabs ofrece más que desarrollo de software, proporcionamos una asociaci�
 |  |  |  |
 | ![](../assets/images/team-photos/ale-photo.png) | Astocondor Bazan, Alejandra Isabel (U202410678) | Estudiante de Ingeniería de Software, enfocada en el desarrollo de soluciones tecnológicas. Poseo habilidades en programación y diseño digital.  Me caracterizo por mi creatividad, responsabilidad y capacidad de adaptación.  |
 |  |  |  |
-|  |  |  |
+| ![](../assets/images/team-photos/leo-photo.jpg) | Dulanto Espino, Leo César (U202410254) | Estudiante de Ingeniería de Software, con conocimientos en C++, Python, y básico de web y Java. Me gusta crear soluciones creativas a los problemas, además de participar y apoyar al equipo en cualquier progreso o dificultad. |
 
 ## 1.2. Solution Profile
 
@@ -94,10 +94,87 @@ El MINSA identifico brechas significativas en capacidades tecnológicas y de ges
 
 #### *1.2.2.1. Lean UX Problem Statements*
 
+KinetiaLabs presenta una plataforma web diseñada para optimizar la interacción entre médicos y pacientes, facilitando el acceso a información y servicios de salud. Mediante una interfaz intuitiva, atractiva y funcional, la solución garantiza una experiencia de usuario eficiente; nuestro objetivo central es agilizar los procesos clínicos y mitigar las ineficiencias de los modelos de atención tradicionales.
+
+A la hora de acudir a un establecimiento médico, la agilidad en la gestión de los procesos es un factor importante para la resolución efectiva de las necesidades del paciente. No obstante, se han identificado deficiencias operativas significativas, tales como la dependencia de procesos manuales y el uso ineficiente de sistemas digitales, factores que derivan en retrasos y errores administrativos. Si bien existen intentos en mejorar sus sistemas, estos resultan insuficientes para cubrir la demanda del flujo operativo actual. Lo cual representa una oportunidad para implementar una solución que optimice y automatice de mejor manera la gestión médica.
+
+¿Cómo podríamos asegurar la automatización y agilización de los procesos administrativos dentro de los establecimientos médicos?
+
 #### *1.2.2.2. Lean UX Assumptions*
+
+**Assumptions Worksheet**
+
+1. ¿Quién es el usuario?
+
+Tenemos 3 usuarios principales:
+Pacientes: Personas de todas las edades que necesiten atención médica por algún inconveniente.
+Médicos: Personal que atiende de forma directa a los pacientes, los cuales les brindan su diagnóstico según la situación.
+Personal administrativo: Encargados de los procesos médicos, además de generar resúmenes y métricas de la actividad clínica.
+
+2. ¿Dónde encaja nuestro producto en su trabajo o vida?
+
+La aplicación encaja a la hora de realizar algún proceso médico, ya sea para cualquiera de los usuarios. Permite a los pacientes gestionar su historial clínico de forma sencilla, a los médicos organizar sus horarios de citas con mayor claridad y al personal administrativo contar con procesos automatizados que reducen la carga de trabajo manual.
+
+3. ¿Qué problemas tiene nuestro producto que resolver?
+
+El problema principal a resolver es la agilización de los procesos médicos, para lo cual se tiene que digitalizar y automatizar algunos procesos manuales o poco óptimos. Esto de la siguiente manera:
+Pacientes: Brindarles acceso directo a historia médica, reservas de cita simple y posibilidad de compra de farmacia en linea.
+Médicos: Permitirles una mejor gestión de su disponibilidad de citas, como también de sus recetas o diagnósticos brindados a sus pacientes.
+Personal administrativo: Automatizar los procesos necesarios para sus trámites o generación de resúmenes y métricas.
+
+4. ¿Cuándo y cómo es usado nuestro producto?
+
+Es usado en general a la hora de querer realizar cualquier proceso médico, pero varía dependiendo del usuario.
+Pacientes: A la hora que quieran agendar una cita o revisar algún diagnóstico o receta en su historial.
+Médicos: En el manejo de sus horarios, envío de diagnósticos o recetas tras una cita, permitir un acceso rápido al historial de sus pacientes.
+Personal administrativo: Al agilizar sus procesos para la elaboración de sus resúmenes o métricas.
+
+5. ¿Qué características son importantes?
+
+Manejo correcto de citas tanto para pacientes (reserva), como médicos (administrar disponibilidad).
+Integración de farmacia en línea para agilizar obtención de recetas brindadas
+Interfaz segmentada y accesible, para uso de cualquier tipo de paciente
+Acceso inmediato al historial clínico de los pacientes tanto para ellos, como para los médicos.
+Sincronización en tiempo real de la información entre el personal administrativo, médicos y pacientes.
+
+6. ¿Cómo debería verse nuestro producto y cómo comportarse?
+	
+Debe presentar una interfaz organizada, minimalista y jerarquizada, eliminando cualquier distracción visual para que la lectura de datos críticos y el acceso a las funciones principales sean inmediatos para los tres tipos de usuario.
+En términos de funcionamiento, se espera que la plataforma sea robusta, ágil y altamente eficiente, con una navegación fluida que priorice la rapidez en la gestión de citas y diagnósticos. Debe comportarse de forma que automatice tareas repetitivas y ofrezca respuestas en tiempo real, transmitiendo total seguridad y confianza a través de una buena gestión de datos entre los procesos administrativos y la atención al paciente.
+
+**Assumptions**
+
+- Creo que mis clientes necesitan una plataforma de gestión médica que agilice la atención, como otros procesos médicos, y facilite el acceso a información, como el historial clínico de los pacientes.
+- Estas necesidades se pueden resolver con procesos automatizados, accesos directos a información, recetas en línea y un panel de métricas.
+- Mis clientes iniciales son pacientes que buscan atención médica, medios que requieren una mejor gestión y personal administrativo para aliviar su carga laboral.
+- El valor #1 que un cliente quiere de mi servicio es la agilización real de los procesos médicos, eliminando esperas o errores innecesarios.
+- El cliente también puede obtener estos beneficios adicionales: mejor organización de la disponibilidad médica, compra simplificada y directa en la farmacia digital, resúmenes y reportes de la actividad clínica.
+- Voy a adquirir la mayoría de mis clientes a través de alianzas con centros médicos, policlínicos, clínicas privadas o consultorios independientes.
+- Haré dinero a través de la venta del software a los centros médicos, policlínicos o clínicas.
+- Mi competencia principal en el mercado será plataformas de gestión de citas existentes o sistemas internos de las clínicas.
+- Los venceremos debido a nuestra propuesta que automatiza el flujo completo, una interfaz optimizada y una mejor gestión de métricas administrativas.
+- Mi mayor riesgo de producto es la resistencia al cambio por parte del personal médico o administrativo
+- Resolveremos esto a través de una interfaz intuitiva, capacitaciones y la demostración tangible de la reducción de tiempo en sus tareas.
 
 #### *1.2.2.3. Lean UX Hypothesis Statements*
 
+**Hypothesis Statement 1**
+
+Creemos que brindar acceso digital a los resultados y diagnósticos reducirá las consultas presenciales o telefónicas solo para recojo de información. Sabremos que lo hemos logrado cuando el número de solicitudes presenciales de copias de historias clínicas disminuya en un 40% durante los primeros tres meses tras su implementación.
+
+**Hypothesis Statement 2**
+
+Creemos que simplificar el proceso de reserva de citas en pocos pasos, agilizará la gestión y satisfacción de los pacientes. Sabremos que lo hemos logrado cuando se registre un 50% más de reservas en digitales en comparación a las tradicionales.
+
+**Hypothesis Statement 3**
+
+Creemos que la automatización de métricas y resúmenes de actividad clínica eliminará la necesidad de reportes manuales al final de la jornada. Sabremos que lo hemos logrado cuando el personal administrativo reduzca en un 30% las horas semanales dedicadas exclusivamente a la elaboración de informes de gestión y auditoría.
+
 #### *1.2.2.4. Lean UX Canvas*
+
+Link: https://canva.link/pgncw7ixx515oud
+
+*Figura 2 (Lean Product Canvas)*  
+![Lean Product Canvas](../assets/images/figures/02-lean_canvas.jpg)
 
 ## 1.3. Segmentos objetivo
