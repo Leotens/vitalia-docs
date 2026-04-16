@@ -46,7 +46,7 @@ KinetiaLabs ofrece más que desarrollo de software, proporcionamos una asociaci�
 |  |  |  |
 | ![](../assets/images/team-photos/ale-photo.png) | Astocondor Bazan, Alejandra Isabel (U202410678) | Estudiante de Ingeniería de Software, enfocada en el desarrollo de soluciones tecnológicas. Poseo habilidades en programación y diseño digital.  Me caracterizo por mi creatividad, responsabilidad y capacidad de adaptación.  |
 |  |  |  |
-| ![](../assets/images/team-photos/leo-photo.png) | Dulanto Espino, Leo César (U202410254) | Estudiante de Ingeniería de Software, con conocimientos en C++, Python, y básico de web y Java. Me gusta crear soluciones creativas a los problemas, además de participar y apoyar al equipo en cualquier progreso o dificultad. |
+| ![](../assets/images/team-photos/leo-photo.jpg) | Dulanto Espino, Leo César (U202410254) | Estudiante de Ingeniería de Software, con conocimientos en C++, Python, y básico de web y Java. Me gusta crear soluciones creativas a los problemas, además de participar y apoyar al equipo en cualquier progreso o dificultad. |
 
 ## 1.2. Solution Profile
 
@@ -101,6 +101,60 @@ A la hora de acudir a un establecimiento médico, la agilidad en la gestión de 
 ¿Cómo podríamos asegurar la automatización y agilización de los procesos administrativos dentro de los establecimientos médicos?
 
 #### *1.2.2.2. Lean UX Assumptions*
+
+**Assumptions Worksheet**
+
+1. ¿Quién es el usuario?
+
+Tenemos 3 usuarios principales:
+Pacientes: Personas de todas las edades que necesiten atención médica por algún inconveniente.
+Médicos: Personal que atiende de forma directa a los pacientes, los cuales les brindan su diagnóstico según la situación.
+Personal administrativo: Encargados de los procesos médicos, además de generar resúmenes y métricas de la actividad clínica.
+
+2. ¿Dónde encaja nuestro producto en su trabajo o vida?
+
+La aplicación encaja a la hora de realizar algún proceso médico, ya sea para cualquiera de los usuarios. Permite a los pacientes gestionar su historial clínico de forma sencilla, a los médicos organizar sus horarios de citas con mayor claridad y al personal administrativo contar con procesos automatizados que reducen la carga de trabajo manual.
+
+3. ¿Qué problemas tiene nuestro producto que resolver?
+
+El problema principal a resolver es la agilización de los procesos médicos, para lo cual se tiene que digitalizar y automatizar algunos procesos manuales o poco óptimos. Esto de la siguiente manera:
+Pacientes: Brindarles acceso directo a historia médica, reservas de cita simple y posibilidad de compra de farmacia en linea.
+Médicos: Permitirles una mejor gestión de su disponibilidad de citas, como también de sus recetas o diagnósticos brindados a sus pacientes.
+Personal administrativo: Automatizar los procesos necesarios para sus trámites o generación de resúmenes y métricas.
+
+4. ¿Cuándo y cómo es usado nuestro producto?
+
+Es usado en general a la hora de querer realizar cualquier proceso médico, pero varía dependiendo del usuario.
+Pacientes: A la hora que quieran agendar una cita o revisar algún diagnóstico o receta en su historial.
+Médicos: En el manejo de sus horarios, envío de diagnósticos o recetas tras una cita, permitir un acceso rápido al historial de sus pacientes.
+Personal administrativo: Al agilizar sus procesos para la elaboración de sus resúmenes o métricas.
+
+5. ¿Qué características son importantes?
+
+Manejo correcto de citas tanto para pacientes (reserva), como médicos (administrar disponibilidad).
+Integración de farmacia en línea para agilizar obtención de recetas brindadas
+Interfaz segmentada y accesible, para uso de cualquier tipo de paciente
+Acceso inmediato al historial clínico de los pacientes tanto para ellos, como para los médicos.
+Sincronización en tiempo real de la información entre el personal administrativo, médicos y pacientes.
+
+6. ¿Cómo debería verse nuestro producto y cómo comportarse?
+	
+Debe presentar una interfaz organizada, minimalista y jerarquizada, eliminando cualquier distracción visual para que la lectura de datos críticos y el acceso a las funciones principales sean inmediatos para los tres tipos de usuario.
+En términos de funcionamiento, se espera que la plataforma sea robusta, ágil y altamente eficiente, con una navegación fluida que priorice la rapidez en la gestión de citas y diagnósticos. Debe comportarse de forma que automatice tareas repetitivas y ofrezca respuestas en tiempo real, transmitiendo total seguridad y confianza a través de una buena gestión de datos entre los procesos administrativos y la atención al paciente.
+
+**Assumptions**
+
+- Creo que mis clientes necesitan una plataforma de gestión médica que agilice la atención, como otros procesos médicos, y facilite el acceso a información, como el historial clínico de los pacientes.
+- Estas necesidades se pueden resolver con procesos automatizados, accesos directos a información, recetas en línea y un panel de métricas.
+- Mis clientes iniciales son pacientes que buscan atención médica, medios que requieren una mejor gestión y personal administrativo para aliviar su carga laboral.
+- El valor #1 que un cliente quiere de mi servicio es la agilización real de los procesos médicos, eliminando esperas o errores innecesarios.
+- El cliente también puede obtener estos beneficios adicionales: mejor organización de la disponibilidad médica, compra simplificada y directa en la farmacia digital, resúmenes y reportes de la actividad clínica.
+- Voy a adquirir la mayoría de mis clientes a través de alianzas con centros médicos, policlínicos, clínicas privadas o consultorios independientes.
+- Haré dinero a través de la venta del software a los centros médicos, policlínicos o clínicas.
+- Mi competencia principal en el mercado será plataformas de gestión de citas existentes o sistemas internos de las clínicas.
+- Los venceremos debido a nuestra propuesta que automatiza el flujo completo, una interfaz optimizada y una mejor gestión de métricas administrativas.
+- Mi mayor riesgo de producto es la resistencia al cambio por parte del personal médico o administrativo
+- Resolveremos esto a través de una interfaz intuitiva, capacitaciones y la demostración tangible de la reducción de tiempo en sus tareas.
 
 #### *1.2.2.3. Lean UX Hypothesis Statements*
 
