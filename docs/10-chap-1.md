@@ -70,13 +70,13 @@ Los principales actores involucrados son los establecimientos de salud del prime
 
 En el Perú, el problema en la gestión de los establecimientos de salud del primer nivel se manifiesta en la fragmentación y baja calidad de la información sanitaria, originada por el uso de sistemas de información no interoperables y la persistencia de procesos manuales, lo que afecta la eficiencia de la atención y limita la toma de decisiones oportunas. Asimismo, esta situación se refleja en el limitado desarrollo de los sistemas de gestión de información en salud, evidenciando debilidades estructurales del sistema sanitario (Banco Mundial, 2023, p. 6).
 
-*3 ¿Cuándo se presenta el problema? (When?)*
+*3. ¿Cuándo se presenta el problema? (When?)*
 El problema se presenta de manera continua a lo largo de todo el proceso de atención del paciente, desde el agendamiento de citas hasta la consulta médica, la prescripción de tratamientos, la dispensación de medicamentos y el proceso de facturación. Es especialmente crítico en momentos de alta demanda, donde la falta de integración y automatización incrementa los tiempos de espera y la probabilidad de errores.
 
 *4. ¿Dónde sucede? (Where?)*
 Esta problemática se manifiesta en diversas áreas del centro de salud, incluyendo admisión (registro y programación de citas), consultorios médicos (registro y diagnóstico), farmacia (dispensación de medicamentos) y caja (procesos de pago y facturación). La falta de integración entre estas áreas genera discontinuidad en el flujo de información.
 
-*5. ¿Por qué ocurre? (Why?)**
+*5. ¿Por qué ocurre? (Why?)*
 El Ministerio de Salud del Perú (MINSA) evidencia importantes deficiencias en la gestión de la información en los establecimientos de salud, señalando la carencia de sistemas de información estandarizados y tableros de control que permitan evaluar la implementación de políticas como la atención integral de salud a nivel regional (Ministerio de Salud del Perú, 2011).
 
 *6. ¿Cómo se manifiesta el problema? (How?)*
@@ -84,8 +84,8 @@ El problema se manifiesta en la práctica mediante la duplicidad de registros de
 
 *7. ¿Cuánto cuesta o cuál es la magnitud? (How much?)*
 
-*Figura 1 (Macroproceso: sistema de información)*
-<img src="../assets/images/figures/01-macroproceso.png" width = "400"><br>
+*Figura 1 (Macroproceso: sistema de información)*<br>
+<img src="../assets/images/figures/01-macroproceso.png" alt = "Figura 1" width = "400"><br>
 > **Nota.** Adaptado del Ministerio de Salud de Perú (2011).
 
 El MINSA identifico brechas significativas en capacidades tecnológicas y de gestión, dado que el 71% de los establecimientos de salud no ha identificado sus necesidades en recursos informáticos ni en personal especializado, y el 72% no cuenta con métodos formales y permanentes para la evaluación, recolección, procesamiento y análisis de información (Ministerio de Salud del Perú, 2011).
