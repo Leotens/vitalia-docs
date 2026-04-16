@@ -21,7 +21,7 @@ Link:
 | Entrevistado: | Entrevistador: Alejandra Astocondor |
 | ------------- | -------------- |
 | ![administrador-01](../assets/images/figures/18-entrevista-administrador01.png) | ![entrevistador-01](../assets/images/figures/19-entrevistador01.png) |
-| Duración: |  |
+| Duración: | 13:23 -17:26 (4:03 minutos) |
 | Nombre completo: |  |
 | Edad: |  |
 | Distrito: |  |
@@ -32,7 +32,7 @@ Link:
 | Entrevistado: | Entrevistador: Alejandra Astocondor |
 | ------------- | -------------- |
 | ![administrador-02](../assets/images/figures/20-entrevista-administrador02.png) | ![entrevistador-02](../assets/images/figures/21-entrevistador02.png) |
-| Duración: |  |
+| Duración: | 17:27 - 25:39 (8:12 minutos) |
 | Nombre completo: |  |
 | Edad: |  |
 | Distrito: |  |
@@ -43,7 +43,7 @@ Link:
 | Entrevistado: | Entrevistador: Alejandra Astocondor |
 | ------------- | -------------- |
 | ![administrador-03](../assets/images/figures/22-entrevista-administrador03.png) | ![entrevistador-03](../assets/images/figures/23-entrevistador03.png) |
-| Duración: |  |
+| Duración: | 25:40 - 29:59 (4:19 minutos) |
 | Nombre completo: |  |
 | Edad: |  |
 | Distrito: |  |
@@ -91,7 +91,7 @@ Link:
 | Entrevistado: | Entrevistador: Nestor Rojas |
 | ------------- | -------------- |
 | ![paciente-01](../assets/images/figures/30-entrevista-paciente01.png) | ![entrevistador-07](../assets/images/figures/31-entrevistador07.png) |
-| Duración: |  |
+| Duración: | 30:00 - 35:07 (5:07 minutos) |
 | Nombre completo: |  |
 | Edad: |  |
 | Distrito: |  |
@@ -102,7 +102,7 @@ Link:
 | Entrevistado: | Entrevistador: Kamil Diaz |
 | ------------- | -------------- |
 | ![paciente-02](../assets/images/figures/32-entrevista-paciente02.png) | ![entrevistador-08](../assets/images/figures/33-entrevistador08.png) |
-| Duración: |  |
+| Duración: | 35:08 - 39:53 (4:45 minutos) |
 | Nombre completo: |  |
 | Edad: |  |
 | Distrito: |  |
@@ -113,7 +113,7 @@ Link:
 | Entrevistado: | Entrevistador: Adrian Ruiz |
 | ------------- | -------------- |
 | ![paciente-03](../assets/images/figures/34-entrevista-paciente03.png) | ![entrevistador-09](../assets/images/figures/35-entrevistador09.png) |
-| Duración: |  |
+| Duración: | 39:54 - 45:03 (5:09 minutos) |
 | Nombre completo: |  |
 | Edad: |  |
 | Distrito: |  |
@@ -124,7 +124,7 @@ Link:
 | Entrevistado: | Entrevistador: Leo Dulanto |
 | ------------- | -------------- |
 | ![paciente-04](../assets/images/figures/36-entrevista-paciente04.png) | ![entrevistador-10](../assets/images/figures/37entrevistador10.png) |
-| Duración: |  |
+| Duración: | 45:04 - 50:36 (5:40 minutos) |
 | Nombre completo: |  |
 | Edad: |  |
 | Distrito: |  |
