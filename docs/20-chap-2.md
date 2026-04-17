@@ -132,7 +132,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| ![administrador-03](../assets/images/figures/22-entrevista-administrador03.png) | ![entrevistador-03](../assets/images/figures/23-entrevistador03.png) |
+| ![administrador-03](../assets/images/figures/22-entrevista-administrador03.png) | <img src="../assets/images/figures/23-entrevistador03.png" width = 200> |
 | Inicia: | 25:40 |
 | Duración: | 4:20 |
 | Nombre completo: | Iris Carpio Bazan |
