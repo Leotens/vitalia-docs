@@ -220,6 +220,20 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 ![User Persona 3](../assets/images/figures/05-user-persona-3.png)
 
 ### 2.3.2. User Task Matrix
+**Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
+
+*Figura 6 (User Task Matrix 1)*  
+![User Task Matrix 1](../assets/images/figures/06-u-task-matrix-1.png)
+
+**Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
+
+*Figura 7 (User Task Matrix 2)*  
+![User Task Matrix 2](../assets/images/figures/07-u-task-matrix-2.png)
+
+**Tercer Segmento Objetivo (Pacientes de todas las edades)**
+
+*Figura 8 (User Task Matrix 3)*  
+![User Task Matrix 3](../assets/images/figures/08-u-task-matrix-3.png)
 
 ### 2.3.3. User Journey Mapping
 
