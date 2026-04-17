@@ -4,7 +4,66 @@
 
 ### 2.1.1. Análisis competitivo
 
+**Competitive Analysis Landscape**
+
+*¿Por qué llevar a cabo este análisis?*
+
+Realizar un análisis competitivo es fundamental para comprender el entorno en el que se desarrollará Vitalia, identificando las soluciones existentes, sus limitaciones y las oportunidades del mercado. Este análisis permite reconocer las fortalezas y debilidades de los competidores, detectar brechas; especialmente en el Primer Nivel de Atención de Salud (PNAS), y definir una propuesta de valor diferenciada, alineada a las necesidades reales de los segmentos objetivo. Asimismo, resulta clave para posicionar a Vitalia como una solución más accesible, simple y adaptada al sistema de salud peruano, frente a alternativas complejas, costosas o poco eficientes.
+
+*Product*
+
+![vitalia-logo](../assets/images/others/vitalia-logo.png) Vitalia
+
+*Competidores*
+
+![doctoralia-logo](../assets/images/others/doctoralia-logo.png) Doctoralia
+![medilink-logo](../assets/images/others/medilink-logo.png) Medilink
+![agendapro-logo](../assets/images/others/agendapro-logo.png) AgendaPro
+
+*Perfil*
+
+|     | Vitalia | Doctoralia | Medilink | AgendaPro |
+| --- | --- | --- | --- | --- |
+| Overview | SaaS integral para establecimientos del Primer Nivel de Atención de Salud (PNAS) que centraliza la historia clínica electrónica y permite gestionar citas, recetas, exámenes, diagnósticos y más. Integra módulos de farmacia y facturación electrónica, optimizando la atención médica y la gestión operativa del centro de salud. | Es un marketplace médico masivo. Su función principal es servir como un buscador donde los pacientes pueden encontrar especialistas, ver opiniones de otros usuarios y reservar una cita. | Herramienta de gestión administrativa y operativa para clínicas. Es un sistema integral que abarca desde la recepción del paciente hasta el control de pagos y el inventario de insumos. | Aplicación especializada en la gestión de citas, expedientes clínicos, agenda en línea, videoconsulta y facturación. Está diseñada para centros que requieren una agenda muy dinámica y contacto constante con el cliente. |
+| Ventaja competitiva ¿Qué valor ofrece a los clientes? | Ecosistema Clínico Unificado: Su valor radica en la integración nativa de la parte médica con la operativa (farmacia y facturación). A diferencia de otros, no es un parche administrativo, sino una herramienta diseñada para que el flujo desde la reserva hasta la salida del paciente sea una sola línea de datos sin fricciones. | Atracción de pacientes nuevos: Ofrece una infraestructura de marketing que garantiza que el médico sea visible globalmente. Su ventaja es la conversión. Convierte búsquedas en citas médicas confirmadas gracias a su sistema de reseñas y su posicionamiento web. | Inteligencia Operativa y Financiera: Solución robusta de gestión clínica y administrativa que permite un alto control operativo del establecimiento, especialmente en procesos internos como inventario, facturación y flujo de caja. | Especialización en agendamiento y gestión de clientes: Garantiza alta usabilidad y rapidez de implementación, ideal para negocios que requieren optimizar la programación de citas y la comunicación con usuarios. |
+
+*Perfil de marketing*
+
+|     | Vitalia | Doctoralia | Medilink | AgendaPro |
+| --- | --- | --- | --- | --- |
+| Mercado Objetivo | El mercado objetivo de Vitalia está dirigido a administradores, médicos y pacientes del Primer Nivel de Atención de Salud (PNAS), tanto del sector público como privado. | Médicos independientes y clínicas que buscan atraer más pacientes, así como usuarios digitales que desean encontrar y agendar citas médicas en línea. | Establecimientos de salud medianos y grandes que requieren un alto nivel de control administrativo, financiero y operativo en sus procesos internos. | Negocios de servicios (incluyendo salud) que necesitan optimizar la gestión de citas y la relación con clientes, especialmente aquellos con alta rotación de agenda. |
+| Estrategias de Marketing | Redes Sociales y Alianzas Institucionales: Autoridad Normativa y Difusión: Se alían con el MINSA y entidades privadas para ser el estándar de formalización médica. Utilizan campañas y redes sociales para demostrar que su ruta digital unificada garantiza una atención más ágil y profesional. | SEO (Search Engine Optimization) y Reputación: Se aseguran de aparecer primeros en Google. Usan el sistema de opiniones (estrellas) para que los médicos compitan entre sí por ser los mejor valorados. | Venta Corporativa (B2B): Se enfocan en eventos de salud, demostraciones personalizadas para gerentes y marketing basado en la "eficiencia administrativa" y el retorno de inversión. | Automatización y Redes Sociales: Apuesta por la publicidad masiva en redes sociales y la automatización, vendiendo la idea de "cero inasistencias" y una agenda siempre llena con el mínimo esfuerzo de gestión. |
+
+*Perfil de producto*
+
+|     | Vitalia | Doctoralia | Medilink | AgendaPro |
+| --- | --- | --- | --- | --- |
+| Productos y Servicios | Historia clínica electrónica (HCE), gestión de citas, recetas digitales, exámenes y diagnósticos, módulo de farmacia, facturación electrónica, dashboards por rol, portal del paciente. | Marketplace médico, búsqueda de especialistas, reservas de citas online, sistema de reseñas y calificaciones, perfiles profesionales, visibilidad digital. | Gestión administrativa clínica, reservas de citas, facturación, control de pagos, inventario de insumos, gestión operativa del establecimiento. | Gestión de citas y agenda, expedientes básicos, reservas online, recordatorios automáticos, videoconsultas, facturación, gestión de clientes. |
+| Precios y costos | Modelo de precios accesible y escalable según el tipo de establecimiento. Para consultorios independientes, cuenta con un Plan Independiente que oscila entre S/ 150 y S/ 250 mensuales, incluyendo un número razonable de usuarios (aproximadamente 5 a 10 médicos activos). En el caso de clínicas privadas y públicas, dispone de un Plan de Asociación Estratégica desde S/ 300 hasta S/ 600 mensuales como base, el cual puede variar en función de la cantidad de sedes y usuarios requeridos. | Opera bajo un modelo de suscripción enfocado en visibilidad, con planes anuales como Plan Plus (S/ 2,390), Plan Anual (S/ 2,990) y Plan VIP (S/ 3,590), este último ofreciendo mayor prioridad en el buscador. | Utiliza un esquema SaaS por usuario, con el Plan Pro desde $35 mensuales por el primer profesional más $9 por cada médico adicional, o $350 anuales, y el Plan Advanced desde $40 mensuales o $400 anuales. | Ofrece planes escalables según número de profesionales, desde $9 mensuales (Plan Individual), $29 (Básico), $59 (Premium hasta 5 usuarios) hasta $199 mensuales (Plan Pro ilimitado). |
+| Canales de distribución (Web y/o móvil) | Plataforma web, acceso desde navegador, implementación digital, marketing B2B y canales online. | Plataforma web, aplicación móvil, posicionamiento en buscadores (SEO), marketing digital, marketplace online. | Plataforma web, implementación personalizada, ventas B2B directas, demostraciones comerciales, canales corporativos. | Plataforma web, aplicación móvil, marketing digital, onboarding online, canales digitales y redes sociales. |
+
+*Análisis SWOT*
+
+|     | Vitalia | Doctoralia | Medilink | AgendaPro |
+| --- | --- | --- | --- | --- |
+| Fortalezas | Plataforma web, aplicación móvil, marketing digital, onboarding online, canales digitales y redes sociales. | Alta visibilidad y captación de pacientes, fuerte posicionamiento en buscadores, sistema de reputación (reseñas). | Control administrativo y financiero robusto, gestión interna completa del establecimiento, enfoque en operaciones. | Alta usabilidad, rápida implementación, fuerte en gestión de citas y automatización. |
+| Debilidades | Menor posicionamiento en el mercado, dependencia de adopción tecnológica en centros de salud. | No gestiona procesos clínicos internos ni historia médica, dependencia de visibilidad para generar valor. | Complejidad de uso, enfoque más administrativo que clínico, implementación más pesada. | No especializado en salud, funcionalidades clínicas limitadas, enfoque genérico. |
+| Oportunidades | Baja digitalización en el Primer Nivel de Atención de Salud (PNAS), necesidad de integrar procesos clínicos y administrativos, impulso de normativas como la historia clínica electrónica, y creciente demanda de soluciones accesibles, simples y adaptadas al contexto peruano. | Expansión en servicios digitales de salud, mayor adopción de reservas online. | Aumento de la necesidad de digitalización en clínicas, exigencias de control financiero y normativas que impulsan el uso de sistemas más estructurados. | Creciente adopción de herramientas digitales simples para gestión de citas y demanda de automatización en la atención al cliente. |
+| Amenazas | Competidores ya posicionados, resistencia al cambio en el sector salud, limitaciones tecnológicas en algunos centros. | Nuevos SaaS más simples, resistencia a sistemas complejos. | Nuevos SaaS más simples, resistencia a sistemas complejos. | Competidores especializados en salud, baja diferenciación en el sector médico. |
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
+**Plan accesible y escalable**
+Ofreceremos planes adaptados al Primer Nivel de Atención de Salud (PNAS), con costos significativamente más accesibles que soluciones complejas como Medilink, permitiendo a consultorios y clínicas adoptar el sistema sin una alta inversión inicial.
+
+**Implementación simple y rápida**
+Vitalia prioriza un onboarding digital sin necesidad de infraestructura adicional, diferenciándose de sistemas que requieren procesos de implementación largos o soporte técnico intensivo.
+
+**Integración total del sistema**
+Unificamos historia clínica, citas, recetas, farmacia y facturación en una sola plataforma, superando la fragmentación de herramientas como Doctoralia (captación), AgendaPro (agenda) y otros sistemas parciales.
+
+**Adaptación al contexto peruano**
+Vitalia se diseña considerando normativas locales y necesidades reales del PNAS, a diferencia de soluciones internacionales o genéricas que no se ajustan al entorno regulatorio ni operativo del país.
 
 ## 2.2. Entrevistas
 
