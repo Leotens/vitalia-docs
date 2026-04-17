@@ -236,7 +236,20 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 ![User Task Matrix 3](../assets/images/figures/08-u-task-matrix-3.png)
 
 ### 2.3.3. User Journey Mapping
+**Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
+*Figura 9 (User Journey Mapping 1)*  
+![User Journey Mapping 1](../assets/images/figures/09-u-journey-mapping-1.png)
+
+**Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
+
+*Figura 10 (User Journey Mapping 2)*  
+![User Journey Mapping 2](../assets/images/figures/10-u-journey-mapping-2.png)
+
+**Tercer Segmento Objetivo (Pacientes de todas las edades)**
+
+*Figura 11 (User Journey Mapping 3)*  
+![User Journey Mapping 3](../assets/images/figures/11-u-journey-mapping-3.png)
 ### 2.3.4. Empathy Mapping
 
 ## 2.4. Big Picture EventStorming
