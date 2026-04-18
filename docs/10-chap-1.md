@@ -178,3 +178,98 @@ Link: https://canva.link/pgncw7ixx515oud
 ![Lean Product Canvas](../assets/images/figures/02-lean_canvas.jpg)
 
 ## 1.3. Segmentos objetivo
+
+Esta sección presenta la descripción de los segmentos objetivo relacionados con el dominio del sistema Vitalia, incluyendo sus características principales, necesidades y comportamiento dentro del entorno de atención médica digital. Asimismo, se consideran aspectos relevantes que justifican su inclusión como parte del mercado objetivo de la solución.
+
+**Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
+
+Este segmento corresponde a los directores, gerentes o dueños de establecimientos del Primer Nivel de Atención de Salud (PNAS), quienes tienen la responsabilidad de la sostenibilidad financiera y operativa del centro. Son los principales tomadores de decisión para la adquisición de Vitalia.
+
+***Características demográficas***
+
+| Pregunta | Respuesta |
+| --- | --- |
+| ¿Cúal es el rango de edad? | 20 a 65 años. |
+| ¿A qué red pertenece? | Pueden formar parte de la red pública del Estado (como MINSA o EsSalud en Perú). O ejercer de manera privada. |
+| ¿Qué tipo de función tiene? | Gestionan centros de atención médica que sirven como la puerta de entrada al sistema de salud, priorizando la medicina preventiva, diagnósticos y tratamientos. |
+| ¿Cuál es su presupuesto? | El presupuesto donde gestionan varía según su naturaleza:<br>- En el sector público, depende de asignaciones estatales y suele estar limitado por recursos y demanda.<br>- En el sector privado, depende del volumen de pacientes y servicios ofrecidos, aunque generalmente es menor en comparación con clínicas de mayor complejidad. |
+| ¿Cómo es la infraestructura de los establecimientos? | La infraestructura es variable:<br>- Policlínicos: infraestructura intermedia con varios consultorios.<br>- Clínicas: infraestructura más completa y equipada.<br>- Consultorios independientes: infraestructura básica y limitada.<br><br>Tomando en cuenta que en establecimientos públicos, puede ser limitada o con restricciones operativas y en privados, puede ser más moderna y de alto flujo. |
+| ¿Cuánta es la cantidad de personal? | De acuerdo al establecimiento:<br>- Policlínicos: varios médicos y personal administrativo.<br> Clínicas: mayor cantidad de personal y especialización.<br> Consultorios independientes: personal mínimo, a veces solo el médico. |
+| ¿Cuánto es el stock de medicamentos? | El manejo de stock de medicamentos e insumos puede ser variable:<br>- En el sector público, condicionado por abastecimiento estatal.<br>- En el privado, dependiente de gestión interna, muchas veces sin sistemas automatizados. |
+
+***Hábitos y Motivación***
+
+Manejan un alto flujo diario de pacientes, lo que los obliga a priorizar la rapidez en la atención sobre la organización administrativa.
+Su proceso de citas suele ser reactivo (llamadas, atención presencial). Buscan optimizar la gestión de citas, pacientes y recursos para mejorar la eficiencia operativa.
+Buscan maximizar la rotación de pacientes por consultorio, ya que su sostenibilidad depende del volumen de atenciones realizadas.
+Existe interés en soluciones digitales que se adapten a su nivel de complejidad y capacidad económica; dependiendo de que la solución sea fácil de implementar, no interrumpa la atención y genere beneficios operativos claros.
+
+***Información del Sustento***
+
+
+El nivel de digitalización en los policlínicos públicos se encuentra regulado por la Ley N° 30024, que promueve el uso de Historias Clínicas Electrónicas (HCE). Sin embargo, en la práctica, muchos establecimientos operan con sistemas antiguos y no interoperables, lo que limita el intercambio eficiente de información entre áreas y profesionales de salud. En el sector privado, el nivel de digitalización es variable, dependiendo del tamaño, capacidad económica y grado de modernización de cada establecimiento. Mientras algunas clínicas han avanzado en la implementación de sistemas digitales, otros centros aún dependen de herramientas básicas o procesos manuales.
+
+Adicionalmente, la Ley de Protección de Datos Personales exige que el manejo de información sensible, como los datos de salud, cumpla con estrictos protocolos de seguridad, incluyendo mecanismos de cifrado y control de acceso, lo que representa un desafío adicional para muchos establecimientos que no cuentan con infraestructura tecnológica adecuada.
+
+En términos de eficiencia y adopción tecnológica, el Estado reportó que durante el año 2025 se superaron los 1.6 millones de atenciones digitales, evidenciando una creciente familiaridad de los pacientes con servicios digitales. Asimismo, según un informe de la consultora Total Market Solutions (TMS), las clínicas y centros médicos privados registraron un crecimiento del 9% hacia 2025, impulsado principalmente por la incorporación de tecnologías que permiten reducir los tiempos de espera y mejorar la satisfacción del paciente hasta en un 40%.
+
+En este contexto, se evidencia una clara brecha entre la necesidad de digitalización y la capacidad real de implementación en los establecimientos de salud. Vitalia surge como una solución que responde a esta problemática.
+
+**Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
+
+Este segmento corresponde a los médicos que laboran en establecimientos del Primer Nivel de Atención de Salud (PNAS), incluyendo policlínicos, clínicas y consultorios independientes. Son los principales usuarios del sistema en la operación diaria, encargados de la atención directa al paciente, el registro de información clínica y el seguimiento de tratamientos.
+
+***Características demográficas***
+
+| Pregunta | Respuesta |
+| --- | --- |
+| ¿Qué rango de edad tienen? | Se identifican dos subgrupos principales:<br>- Nativos Digitales (25 a 40 años): Médicos jóvenes y residentes que exigen herramientas tecnológicas modernas y rechazan el uso de papel.<br>- Inmigrantes Digitales (41 a 65 años): Médicos con amplia experiencia que, aunque habituados al sistema tradicional, buscan soluciones simples que no compliquen su flujo de trabajo actual. |
+| ¿Cuál es su carga laboral? | Atienden un alto volumen de pacientes por jornada, lo que genera una presión constante por reducir el tiempo administrativo. |
+| ¿Qué responsabilidad legal enfrentan? | Obligación de registro preciso bajo estándares de SUSALUD y la emisión de recetas claras para evitar errores de medicación. |
+
+***Hábitos y Motivación***
+
+Priorizan la rapidez en la atención debido a la alta demanda de pacientes.
+Buscan acceder de forma inmediata al historial clínico del paciente para mejorar la precisión del diagnóstico.
+Tienden a evitar sistemas complejos que interfieran con el flujo de la consulta médica.
+Valoran herramientas que reduzcan el tiempo de registro de información clínica.
+Buscan mejorar la continuidad de atención del paciente mediante un mejor seguimiento médico.
+Muestran mayor disposición a usar tecnología cuando esta simplifica su trabajo y no aumenta su carga operativa.
+
+***Información del Sustento***
+
+El principal obstáculo del médico moderno es la denominada carga administrativa, la cual impacta directamente en la calidad y eficiencia de la atención médica. Diversos estudios, 
+globales como regionales, evidencian que los médicos pueden llegar a dedicar una cantidad de tiempo similar a tareas administrativas (como el llenado de formularios y registros) en comparación con la atención directa a pacientes.
+
+En este sentido, la Organización Panamericana de la Salud señala que la implementación de Historias Clínicas Electrónicas (HCE) adecuadamente diseñadas puede reducir hasta en un 20% el tiempo destinado a estas tareas, permitiendo una atención más eficiente, precisa y centrada en el paciente.
+
+Desde el punto de vista legal, en el Perú, el médico es el responsable directo de la información registrada en la historia clínica. El uso de sistemas no integrados o procesos manuales incrementa el riesgo de errores, inconsistencias y problemas durante auditorías. En este marco, la Norma Técnica de Salud N° 022-MINSA/DGSP establece los estándares para la adecuada gestión de la historia clínica, reforzando la importancia de contar con sistemas confiables y estructurados.
+
+En este contexto, la adopción de herramientas digitales que optimicen el registro clínico, reduzcan la carga administrativa y faciliten el acceso a la información se vuelve fundamental para mejorar la eficiencia del trabajo médico, en el cual Vitalia responde a esta problemática al ofrecer una plataforma intuitiva, rápida e integrada, diseñada para adaptarse al flujo de trabajo del médico.
+
+**Tercer Segmento Objetivo (Pacientes de todas las edades)**
+
+Este segmento representa al beneficiario final de los servicios de salud brindados en los establecimientos de PNAS. Su experiencia con el sistema Vitalia es indirecta pero crítica, ya que la modernización del centro impacta directamente en la calidad, rapidez y seguridad de su atención médica.
+
+***Características demográficas***
+
+| Pregunta | Respuesta |
+| --- | --- |
+| ¿Qué rango de edad tienen? | El mercado es universal, pero se segmenta por su relación con la tecnología:<br>- Nativos Digitales (18 a 44 años): Usuarios que buscan inmediatez, comunicación digital y prefieren establecimientos que les permitan gestionar su salud desde el celular.<br>- Adultos y Cuidadores (45 a 64 años): Usuarios que valoran el orden y la claridad, actuando muchas veces como responsables de la salud de sus hijos o padres ancianos.<br>- Adultos Mayores (65+ años): Beneficiarios que requieren procesos simplificados, recetas legibles y un historial centralizado para el manejo de enfermedades crónicas. |
+| ¿Qué nivel de acceso tecnológico poseen? | Uso masivo de dispositivos móviles inteligentes y familiaridad con aplicaciones de servicios básicos (banca, mensajería y trámites gubernamentales). |
+| ¿Cuál es su frecuencia de atención? | Varía desde pacientes con dolencias agudas (atenciones esporádicas) hasta pacientes crónicos que requieren un control mensual de recetas y citas de seguimiento. |
+
+***Hábitos y Motivación***
+
+Buscan rapidez en la atención médica y reducción de tiempos de espera.
+Prefieren procesos simples para agendar citas y acceder a servicios.
+Muestran una creciente adaptación al uso de herramientas digitales en salud.
+Buscan mayor transparencia y control sobre su información médica.
+
+***Información del Sustento***
+
+Uno de los principales problemas que enfrentan los pacientes al recibir una prescripción médica es la dificultad para comprenderla o conservarla adecuadamente. La ilegibilidad de las recetas físicas y la pérdida de documentos pueden generar errores en la medicación y afectar la continuidad del tratamiento. En este sentido, un estudio publicado en Taylor & Francis, señala que la implementación de sistemas de prescripción electrónica puede reducir los errores de medicación hasta en un 49.8%, mitigando riesgos asociados a la mala interpretación y comunicación de las indicaciones médicas.
+
+Asimismo, en el Perú, la Ley N° 29414 (Art. 15) establece que todo paciente tiene derecho a recibir información “precisa y oportuna” sobre su estado de salud. Complementariamente, el Reglamento aprobado mediante el D.S. N° 027-2015-SA obliga a las IPRESS a garantizar que la historia clínica sea veraz, completa y accesible. En este contexto, la digitalización de la información médica permite cumplir con estos lineamientos, asegurando que los datos sean legibles, organizados y disponibles para el paciente.
+
+Desde una perspectiva económica, el uso de Historias Clínicas Electrónicas (HCE) contribuye a reducir gastos innecesarios, ya que evita la repetición de exámenes médicos al permitir que el profesional de salud acceda de manera inmediata a los resultados previos del paciente. Esto no solo mejora la seguridad clínica, sino también optimiza el gasto del paciente en su atención médica.
