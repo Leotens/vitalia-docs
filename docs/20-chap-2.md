@@ -184,7 +184,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistador: Nestor Rojas |
 | ------------- | -------------- |
-| <img src="../assets/images/figures/30-entrevista-paciente01.png" alt="paciente-01" width= "150"/> | <img src="../assets/images/figures/31-entrevistador07.png" alt="entrevistador-07" width= "150"/> |
+| <img src="../assets/images/figures/30-entrevista-paciente01.png" alt="paciente-01" width= 450/> | <img src="../assets/images/figures/31-entrevistador07.png" alt="entrevistador-07" width= 200/> |
 | Inicia | 30:00 |
 | Duración: | 5:08 |
 | Nombre completo: | Gianella Levice |
