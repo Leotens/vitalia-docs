@@ -36,10 +36,14 @@
 
 | Versión | Fecha | Autor | Descripción de modificación |
 | --- | --- | --- | --- |
-| 0.1.0 | 15/4/26 | @AleeAsto | docs: añadir estructura del capitulo 1 y la descripción del startup |
-| 0.1.1 | 15/4/26 | @AleeAsto | docs: añadir antecedentes y problematica |
-| 0.1.2 | 15/4/26 | @AdrixRyz | docs: añadir caratula la estructura de los consiguientes |
-|  |  |  |  |
+| 0.1.0 | 15/4/26 | @AleeAsto | docs: añadir la descripción del startup y antecedentes y problematica |
+| 0.1.1 | 15/4/26 | @AdrixRyz | docs: añadir los puntos previos al capitulo 1 |
+| 0.1.2 | 16/4/26 | @Leotens | docs: añadir todos los puntos de Lean UX Process |
+| 0.1.3 | 16/4/26 | @AleeAsto | docs: añadir diseño de entrevistas |
+| 0.1.4 | 16/4/26 | @Leotens | docs: añadir registro de entrevistas |
+| 0.1.5 | 16/4/26 | @nes-ro | docs: añadir todos los puntos de competidores |
+| 0.1.6 | 17/4/26 | @kamil-tron | docs: añadir todos los puntos de needfinding |
+| 0.1.7 | 17/4/26 | @nes-rojas | docs: añadir segmentos objetivo |
 
 # Project Report Collaboration Insights
 
@@ -49,7 +53,7 @@ A continuación, se detallan las actividades realizadas en cada entrega, la part
 
 **AV1**
 
-Text & Images
+[Image]
 
 # Tabla de contenidos
 

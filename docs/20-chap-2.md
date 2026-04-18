@@ -108,7 +108,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| ![administrador-01](../assets/images/figures/18-entrevista-administrador01.png) | ![entrevistador-01](../assets/images/figures/19-entrevistador01.png) |
+| <img src="../assets/images/figures/18-entrevista-administrador01.png" alt="administrador-01" width="250"/> | <img src="../assets/images/figures/19-entrevistador01.png" alt="entrevistador-01" width="250"/> |
 | Inicia: | 13:23 |
 | Duración:| 4:04 |
 | Nombre completo: | Christian David Bazan Calderon |
@@ -120,7 +120,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| ![administrador-02](../assets/images/figures/20-entrevista-administrador02.png) | ![entrevistador-02](../assets/images/figures/21-entrevistador02.png) |
+| <img src="../assets/images/figures/20-entrevista-administrador02.png" alt="administrador-02" width="250"/> | <img src="../assets/images/figures/21-entrevistador02.png" alt="entrevistador-02" width="250"/> |
 | Inicia: | 17:27 |
 | Duración: | 7:38 |
 | Nombre completo: | Diego Leonardo Bazan Calderon |
@@ -132,7 +132,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| ![administrador-03](../assets/images/figures/22-entrevista-administrador03.png) | <img src="../assets/images/figures/23-entrevistador03.png" width = 200> |
+| <img src="../assets/images/figures/22-entrevista-administrador03.png" alt="administrador-03" width="250"/> | <img src="../assets/images/figures/23-entrevistador03.png" width="250"/> |
 | Inicia: | 25:40 |
 | Duración: | 4:20 |
 | Nombre completo: | Iris Carpio Bazan |
@@ -146,7 +146,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistadora: Alejandra Astocondor |
 | -------------- | -------------- |
-| ![doctor-01](../assets/images/figures/24-entrevista-doctor01.png) | ![entrevistador-04](../assets/images/figures/25-entrevistador04.png) |
+| <img src="../assets/images/figures/24-entrevista-doctor01.png" alt="doctor-01" width="250"/> | <img src="../assets/images/figures/25-entrevistador04.png" alt="entrevistador-04" width="250"/> |
 | Inicia: | 0:00 |
 | Duración: | 4:57 |
 | Nombre completo: | Carmen Patricia Gabriela Perez |
@@ -158,7 +158,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| ![doctor-02](../assets/images/figures/26-entrevista-doctor02.png) | ![entrevistador-05](../assets/images/figures/27-entrevistador05.png) |
+| <img src="../assets/images/figures/26-entrevista-doctor02.png" alt="doctor-02" width="250"/> | <img src="../assets/images/figures/27-entrevistador05.png" alt="entrevistador-05" width="250"/> |
 | Inicia | 4:57 |
 | Duración: | 4:50 |
 | Nombre completo: | Jorge Mendoza Toribio |
@@ -170,7 +170,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| ![doctor-03](../assets/images/figures/28-entrevista-doctor03.png) | ![entrevistador-06](../assets/images/figures/29-entrevistador06.png) |
+| <img src="../assets/images/figures/28-entrevista-doctor03.png" alt="doctor-03" width="250"/> | <img src="../assets/images/figures/29-entrevistador06.png" alt="entrevistador-06" width="250"/> |
 | Inicia | 9:47 |
 | Duración: | 3:36 |
 | Nombre completo: | Jose Miguel Mejia Azañero |
@@ -184,7 +184,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistador: Nestor Rojas |
 | ------------- | -------------- |
-| <img src="../assets/images/figures/30-entrevista-paciente01.png" alt="paciente-01" width= 450/> | <img src="../assets/images/figures/31-entrevistador07.png" alt="entrevistador-07" width= 200/> |
+| <img src="../assets/images/figures/30-entrevista-paciente01.png" alt="paciente-01" width="250"/> | <img src="../assets/images/figures/31-entrevistador07.png" alt="entrevistador-07" width="250"/> |
 | Inicia | 30:00 |
 | Duración: | 5:08 |
 | Nombre completo: | Gianella Levice |
@@ -236,6 +236,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 ![User Task Matrix 3](../assets/images/figures/08-u-task-matrix-3.png)
 
 ### 2.3.3. User Journey Mapping
+
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 *Figura 9 (User Journey Mapping 1)*  
@@ -250,7 +251,9 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 *Figura 11 (User Journey Mapping 3)*  
 ![User Journey Mapping 3](../assets/images/figures/11-u-journey-mapping-3.png)
+
 ### 2.3.4. Empathy Mapping
+
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
 *Figura 12 (Empathy Mapping 1)*  
@@ -265,6 +268,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 *Figura 14 (Empathy Mapping 3)*  
 ![Empathy Mapping 3](../assets/images/figures/14-empathy-mapping-3.png)
+
 ## 2.4. Big Picture EventStorming
 
 ## 2.5. Ubiquitous Language

@@ -28,25 +28,25 @@ KinetiaLabs ofrece más que desarrollo de software, proporcionamos una asociaci�
 
 **Características principales**
 
-- **Arquitectura de Software Dinámica y Escalable:** Diseñamos sistemas modulares y basados en microservicios que crecen y se adaptan al ritmo de la empresa, evitando la deuda técnica y garantizando la longevidad de la inversión tecnológica.
+- *Arquitectura de Software Dinámica y Escalable:* Diseñamos sistemas modulares y basados en microservicios que crecen y se adaptan al ritmo de la empresa, evitando la deuda técnica y garantizando la longevidad de la inversión tecnológica.
 
-- **Enfoque en Optimización de Flujos y Movimiento:** Especialización en automatización de procesos empresariales (BPA) e integración de sistemas, diseñando interfaces y backends que minimizan los clics y maximizan la velocidad de ejecución.
+- *Enfoque en Optimización de Flujos y Movimiento:* Especialización en automatización de procesos empresariales (BPA) e integración de sistemas, diseñando interfaces y backends que minimizan los clics y maximizan la velocidad de ejecución.
 
-- **Desarrollo Técnico de Alta Precisión:** Implementación de rigurosos estándares de calidad, pruebas automatizadas y prácticas de DevOps de vanguardia para asegurar entregas robustas, seguras y libres de errores desde el primer día.
+- *Desarrollo Técnico de Alta Precisión:* Implementación de rigurosos estándares de calidad, pruebas automatizadas y prácticas de DevOps de vanguardia para asegurar entregas robustas, seguras y libres de errores desde el primer día.
 
-- **Innovación Centrada en el Cliente:** Metodología de co-creación donde la investigación de usuario y el análisis de negocio guían cada línea de código, asegurando que la solución técnica final impulse métricas empresariales reales.
+- *Innovación Centrada en el Cliente:* Metodología de co-creación donde la investigación de usuario y el análisis de negocio guían cada línea de código, asegurando que la solución técnica final impulse métricas empresariales reales.
 
-- **Tecnologías Emergentes con Propósito:** Especialización en la integración pragmática de IA/ML, IoT y Big Data para generar ventajas competitivas tangibles, lejos de las modas tecnológicas y enfocados en la utilidad operativa.
+- *Tecnologías Emergentes con Propósito:* Especialización en la integración pragmática de IA/ML, IoT y Big Data para generar ventajas competitivas tangibles, lejos de las modas tecnológicas y enfocados en la utilidad operativa.
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
 | Foto | Nombre | Descripción |
 | --- | --- | --- |
-| ![adrian-photo](../assets/images/team-photos/adrian-photo.jpg) | Ruiz Mideyros, Adrian (U20241E177) | Estudiante de Ingeniería de Software, apasionado por la tecnología desde pequeño. Desarrollador de aplicaciones y videojuegos, con conocimientos en C++, Python, Web Stock y otras tecnologías. Me considero una persona proactiva, con gran disposición para aprender constantemente y apoyar en lo que se necesite. |
-| <img src="../assets/images/team-photos/nes-photo.jpg" alt="nes-profile" width="160"/> | Rojas Tello, Nestor Alonso (U202317099) | Estudiante de Ingeniería de Software. Tengo conocimientos en C++, Python, JavaScript y CSS. Me considero una persona colaborativa, responsable y con disposición para resolver dudas y proponer soluciones ante cualquier desafío. |
-| ![ale-photo](../assets/images/team-photos/ale-photo.jpg) | Astocondor Bazan, Alejandra Isabel (U202410678) | Estudiante de Ingeniería de Software, enfocada en el desarrollo de soluciones tecnológicas. Poseo habilidades en programación y diseño digital.  Me caracterizo por mi creatividad, responsabilidad y capacidad de adaptación.  |
-| ![kamil-photo](../assets/images/team-photos/kamil-photo.jpg) | Diaz Martinez, Alexther Kamil  (U202412316) | Estudiante de ingeniería de software, me gusta programar, tengo conocimiento en C++ y Python, me gustan los desafíos. Mi meta es aplicar mi optimismo y capacidad técnica para desarrollar software que genere un impacto real. |
-| ![leo-photo](../assets/images/team-photos/leo-photo.jpg) | Dulanto Espino, Leo César (U202410254) | Estudiante de Ingeniería de Software, con conocimientos en C++, Python, y básico de web y Java. Me gusta crear soluciones creativas a los problemas, además de participar y apoyar al equipo en cualquier progreso o dificultad. |
+| <img src="../assets/images/team-photos/adrian-photo.jpg" alt="adrian-photo" width="250"/> | Ruiz Mideyros, Adrian (U20241E177) | Estudiante de Ingeniería de Software, apasionado por la tecnología desde pequeño. Desarrollador de aplicaciones y videojuegos, con conocimientos en C++, Python, Web Stock y otras tecnologías. Me considero una persona proactiva, con gran disposición para aprender constantemente y apoyar en lo que se necesite. |
+| <img src="../assets/images/team-photos/nestor-photo.png" alt="nestor-photo" width="250"/> | Rojas Tello, Nestor Alonso (U202317099) | Estudiante de Ingeniería de Software. Tengo conocimientos en C++, Python, JavaScript y CSS. Me considero una persona colaborativa, responsable y con disposición para resolver dudas y proponer soluciones ante cualquier desafío. |
+| <img src="../assets/images/team-photos/ale-photo.jpg" alt="ale-photo" width="250"/> | Astocondor Bazan, Alejandra Isabel (U202410678) | Estudiante de Ingeniería de Software, enfocada en el desarrollo de soluciones tecnológicas. Poseo habilidades en programación y diseño digital.  Me caracterizo por mi creatividad, responsabilidad y capacidad de adaptación.  |
+| <img src="../assets/images/team-photos/kamil-photo.jpg" alt="kamil-photo" width="250"/> | Diaz Martinez, Alexther Kamil  (U202412316) | Estudiante de ingeniería de software, me gusta programar, tengo conocimiento en C++ y Python, me gustan los desafíos. Mi meta es aplicar mi optimismo y capacidad técnica para desarrollar software que genere un impacto real. |
+| <img src="../assets/images/team-photos/leo-photo.jpg" alt="leo-photo" width="250"/> | Dulanto Espino, Leo César (U202410254) | Estudiante de Ingeniería de Software, con conocimientos en C++, Python, y básico de web y Java. Me gusta crear soluciones creativas a los problemas, además de participar y apoyar al equipo en cualquier progreso o dificultad. |
 
 ## 1.2. Solution Profile
 
@@ -84,8 +84,8 @@ El problema se manifiesta en la práctica mediante la duplicidad de registros de
 
 *7. ¿Cuánto cuesta o cuál es la magnitud? (How much?)*
 
-*Figura 1 (Macroproceso: sistema de información)*<br>
-<img src="../assets/images/figures/01-macroproceso.png" alt = "Figura 1" width = "400"><br>
+*Figura 1 (Macroproceso: sistema de información)*  
+<img src="../assets/images/figures/01-macroproceso.png" alt = "Macroproceso: sistema de informacion" width = "400"><br>
 > **Nota.** Adaptado del Ministerio de Salud de Perú (2011).
 
 El MINSA identifico brechas significativas en capacidades tecnológicas y de gestión, dado que el 71% de los establecimientos de salud no ha identificado sus necesidades en recursos informáticos ni en personal especializado, y el 72% no cuenta con métodos formales y permanentes para la evaluación, recolección, procesamiento y análisis de información (Ministerio de Salud del Perú, 2011).
@@ -175,7 +175,7 @@ Creemos que la automatización de métricas y resúmenes de actividad clínica e
 Link: https://canva.link/pgncw7ixx515oud
 
 *Figura 2 (Lean Product Canvas)*  
-![Lean Product Canvas](../assets/images/figures/02-lean_canvas.jpg)
+![Lean Product Canvas](../assets/images/figures/02-lean-product-canvas.jpg)
 
 ## 1.3. Segmentos objetivo
 
@@ -185,7 +185,7 @@ Esta sección presenta la descripción de los segmentos objetivo relacionados co
 
 Este segmento corresponde a los directores, gerentes o dueños de establecimientos del Primer Nivel de Atención de Salud (PNAS), quienes tienen la responsabilidad de la sostenibilidad financiera y operativa del centro. Son los principales tomadores de decisión para la adquisición de Vitalia.
 
-***Características demográficas***
+*Características demográficas*
 
 | Pregunta | Respuesta |
 | --- | --- |
@@ -197,15 +197,14 @@ Este segmento corresponde a los directores, gerentes o dueños de establecimient
 | ¿Cuánta es la cantidad de personal? | De acuerdo al establecimiento:<br>- Policlínicos: varios médicos y personal administrativo.<br> Clínicas: mayor cantidad de personal y especialización.<br> Consultorios independientes: personal mínimo, a veces solo el médico. |
 | ¿Cuánto es el stock de medicamentos? | El manejo de stock de medicamentos e insumos puede ser variable:<br>- En el sector público, condicionado por abastecimiento estatal.<br>- En el privado, dependiente de gestión interna, muchas veces sin sistemas automatizados. |
 
-***Hábitos y Motivación***
+*Hábitos y Motivación*
 
-Manejan un alto flujo diario de pacientes, lo que los obliga a priorizar la rapidez en la atención sobre la organización administrativa.
-Su proceso de citas suele ser reactivo (llamadas, atención presencial). Buscan optimizar la gestión de citas, pacientes y recursos para mejorar la eficiencia operativa.
-Buscan maximizar la rotación de pacientes por consultorio, ya que su sostenibilidad depende del volumen de atenciones realizadas.
-Existe interés en soluciones digitales que se adapten a su nivel de complejidad y capacidad económica; dependiendo de que la solución sea fácil de implementar, no interrumpa la atención y genere beneficios operativos claros.
+- Manejan un alto flujo diario de pacientes, lo que los obliga a priorizar la rapidez en la atención sobre la organización administrativa.
+- Su proceso de citas suele ser reactivo (llamadas, atención presencial). Buscan optimizar la gestión de citas, pacientes y recursos para mejorar la eficiencia operativa.
+- Buscan maximizar la rotación de pacientes por consultorio, ya que su sostenibilidad depende del volumen de atenciones realizadas.
+- Existe interés en soluciones digitales que se adapten a su nivel de complejidad y capacidad económica; dependiendo de que la solución sea fácil de implementar, no interrumpa la atención y genere beneficios operativos claros.
 
-***Información del Sustento***
-
+*Información del Sustento*
 
 El nivel de digitalización en los policlínicos públicos se encuentra regulado por la Ley N° 30024, que promueve el uso de Historias Clínicas Electrónicas (HCE). Sin embargo, en la práctica, muchos establecimientos operan con sistemas antiguos y no interoperables, lo que limita el intercambio eficiente de información entre áreas y profesionales de salud. En el sector privado, el nivel de digitalización es variable, dependiendo del tamaño, capacidad económica y grado de modernización de cada establecimiento. Mientras algunas clínicas han avanzado en la implementación de sistemas digitales, otros centros aún dependen de herramientas básicas o procesos manuales.
 
@@ -219,7 +218,7 @@ En este contexto, se evidencia una clara brecha entre la necesidad de digitaliza
 
 Este segmento corresponde a los médicos que laboran en establecimientos del Primer Nivel de Atención de Salud (PNAS), incluyendo policlínicos, clínicas y consultorios independientes. Son los principales usuarios del sistema en la operación diaria, encargados de la atención directa al paciente, el registro de información clínica y el seguimiento de tratamientos.
 
-***Características demográficas***
+*Características demográficas*
 
 | Pregunta | Respuesta |
 | --- | --- |
@@ -227,16 +226,16 @@ Este segmento corresponde a los médicos que laboran en establecimientos del Pri
 | ¿Cuál es su carga laboral? | Atienden un alto volumen de pacientes por jornada, lo que genera una presión constante por reducir el tiempo administrativo. |
 | ¿Qué responsabilidad legal enfrentan? | Obligación de registro preciso bajo estándares de SUSALUD y la emisión de recetas claras para evitar errores de medicación. |
 
-***Hábitos y Motivación***
+*Hábitos y Motivación*
 
-Priorizan la rapidez en la atención debido a la alta demanda de pacientes.
-Buscan acceder de forma inmediata al historial clínico del paciente para mejorar la precisión del diagnóstico.
-Tienden a evitar sistemas complejos que interfieran con el flujo de la consulta médica.
-Valoran herramientas que reduzcan el tiempo de registro de información clínica.
-Buscan mejorar la continuidad de atención del paciente mediante un mejor seguimiento médico.
-Muestran mayor disposición a usar tecnología cuando esta simplifica su trabajo y no aumenta su carga operativa.
+- Priorizan la rapidez en la atención debido a la alta demanda de pacientes.
+- Buscan acceder de forma inmediata al historial clínico del paciente para mejorar la precisión del diagnóstico.
+- Tienden a evitar sistemas complejos que interfieran con el flujo de la consulta médica.
+- Valoran herramientas que reduzcan el tiempo de registro de información clínica.
+- Buscan mejorar la continuidad de atención del paciente mediante un mejor seguimiento médico.
+- Muestran mayor disposición a usar tecnología cuando esta simplifica su trabajo y no aumenta su carga operativa.
 
-***Información del Sustento***
+*Información del Sustento*
 
 El principal obstáculo del médico moderno es la denominada carga administrativa, la cual impacta directamente en la calidad y eficiencia de la atención médica. Diversos estudios, 
 globales como regionales, evidencian que los médicos pueden llegar a dedicar una cantidad de tiempo similar a tareas administrativas (como el llenado de formularios y registros) en comparación con la atención directa a pacientes.
@@ -251,7 +250,7 @@ En este contexto, la adopción de herramientas digitales que optimicen el regist
 
 Este segmento representa al beneficiario final de los servicios de salud brindados en los establecimientos de PNAS. Su experiencia con el sistema Vitalia es indirecta pero crítica, ya que la modernización del centro impacta directamente en la calidad, rapidez y seguridad de su atención médica.
 
-***Características demográficas***
+*Características demográficas*
 
 | Pregunta | Respuesta |
 | --- | --- |
@@ -259,14 +258,14 @@ Este segmento representa al beneficiario final de los servicios de salud brindad
 | ¿Qué nivel de acceso tecnológico poseen? | Uso masivo de dispositivos móviles inteligentes y familiaridad con aplicaciones de servicios básicos (banca, mensajería y trámites gubernamentales). |
 | ¿Cuál es su frecuencia de atención? | Varía desde pacientes con dolencias agudas (atenciones esporádicas) hasta pacientes crónicos que requieren un control mensual de recetas y citas de seguimiento. |
 
-***Hábitos y Motivación***
+*Hábitos y Motivación*
 
-Buscan rapidez en la atención médica y reducción de tiempos de espera.
-Prefieren procesos simples para agendar citas y acceder a servicios.
-Muestran una creciente adaptación al uso de herramientas digitales en salud.
-Buscan mayor transparencia y control sobre su información médica.
+- Buscan rapidez en la atención médica y reducción de tiempos de espera.
+- Prefieren procesos simples para agendar citas y acceder a servicios.
+- Muestran una creciente adaptación al uso de herramientas digitales en salud.
+- Buscan mayor transparencia y control sobre su información médica.
 
-***Información del Sustento***
+*Información del Sustento*
 
 Uno de los principales problemas que enfrentan los pacientes al recibir una prescripción médica es la dificultad para comprenderla o conservarla adecuadamente. La ilegibilidad de las recetas físicas y la pérdida de documentos pueden generar errores en la medicación y afectar la continuidad del tratamiento. En este sentido, un estudio publicado en Taylor & Francis, señala que la implementación de sistemas de prescripción electrónica puede reducir los errores de medicación hasta en un 49.8%, mitigando riesgos asociados a la mala interpretación y comunicación de las indicaciones médicas.
 
