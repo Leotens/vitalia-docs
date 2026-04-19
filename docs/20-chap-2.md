@@ -196,9 +196,96 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
+ **1. Características objetivas**
+
+El 100% de los administradores (3/3) utiliza múltiples sistemas no integrados, incluyendo herramientas como Excel, WhatsApp, sistemas propios o software externo.
+
+
+* El 100% (3/3) reporta falta de integración entre sistemas
+* El 66% (2/3) menciona duplicación de datos o procesos
+* El 100% (3/3) utiliza herramientas digitales, pero de forma fragmentada
+
+En términos de implementación:
+
+* El 66% (2/3) considera que la integración es el factor más importante
+* El 33% (1/3) resalta la limitación de recursos externos (dependencia institucional)
+
+ **2. Características subjetivas**
+ 
+* El 100% (3/3) considera que un sistema integral mejoraría la gestión
+* El 66% (2/3) valora la toma de decisiones basada en datos
+* El 33% (1/3) enfatiza la facilidad de uso debido a brecha generacional
+* El 33% (1/3) identifica la seguridad como preocupación relevante
+
+Además, el 100% (3/3) coincide en la necesidad de integrar:
+
+* historia clínica
+* citas
+* facturación
+* servicios auxiliares
+
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
+ **1. Características objetivas**
+ 
+ El 100% de los médicos (3/3) utiliza sistemas digitales de historia clínica (ESI), lo que evidencia que la digitalización ya está incorporada en su práctica diaria. Asimismo, el 100% reporta tiempos de consulta cortos (~12 minutos), lo que condiciona su interacción con el sistema.
+
+En cuanto a dificultades:
+
+* El 100% (3/3) menciona problemas de lentitud del sistema o internet
+* El 33% (1/3) reporta pérdida de información
+* El 0% (0/3) ha experimentado directamente errores de duplicidad, aunque reconocen su existencia
+
+El 66% (2/3) indica que la gestión de recetas y exámenes es sencilla, pero requiere adaptación inicial.
+
+  **1. Características objetivas**
+  
+* El 100% (3/3) se siente cómodo utilizando herramientas digitales, lo que indica una alta aceptación tecnológica.
+
+Sin embargo:
+
+* El 100% (3/3) percibe que el sistema consume tiempo valioso de consulta
+* El 66% (2/3) expresa necesidad de optimizar el registro de información
+* El 66% (2/3) sugiere soluciones relacionadas con automatización (triaje, recetas)
+* El 33% (1/3) propone directamente inteligencia artificial (resúmenes automáticos)
+
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
+
+ **2. Características objetivas**
+ 
+ Se identifican dos realidades:
+
+Acceso a citas:
+* El 50% (2/4) accede fácilmente a citas mediante medios digitales
+* El 50% (2/4) presenta dificultades (teléfono, presencial, demoras)
+
+Tiempos de espera:
+* El 75% (3/4) reporta esperas prolongadas (semanas o meses)
+
+Acceso a información:
+* El 75% (3/4) tiene dificultades para acceder a su historial o resultados
+* El 50% (2/4) ha experimentado problemas como:
+  * pérdida de información
+  * repetición de exámenes
+
+Uso de digital:
+
+* El 75% (3/4) utiliza herramientas digitales
+* El 25% (1/4) presenta dificultades tecnológicas
+
+ **2. Características subjetivas**
+* El 100% (4/4) considera importante contar con:
+  * recordatorios de citas
+  * acceso digital a información
+* El 75% (3/4) muestra disposición positiva hacia plataformas digitales integradas
+* El 25% (1/4) muestra inseguridad o dificultad en el uso tecnológico
+* El 100% (4/4) percibe que una plataforma unificada mejoraría su experiencia
+
+**Hallazgos transversales**
+
+* El 100% de los segmentos identifica problemas relacionados con la fragmentación de sistemas
+* El 100% de los médicos y administradores utiliza sistemas digitales, pero con limitaciones
+* El 80% de los entrevistados (8/10) experimenta problemas de acceso, tiempo o información
 
 ## 2.3. Needfinding
 
