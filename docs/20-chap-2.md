@@ -391,4 +391,43 @@ Como hallazgos transversales tenemos:
 
 ## 2.4. Big Picture EventStorming
 
+*Figura 15 (Big Picture EventStorming)*  
+![Big Picture EventStorming](../assets/images/figures/15-big-picture-es.png)
+
 ## 2.5. Ubiquitous Language
+
+**Organización y Estructura (Gestión de la Clínica)**
+
+* **Tenant (Policlínico):** Establecimiento de salud de atención primaria que opera de manera independiente y centraliza sus procesos clínicos, administrativos y de farmacia en la plataforma..
+* **Staff Member (Miembro del Personal):** Cualquier individuo que labora en el policlínico, incluyendo médicos, recepcionistas, farmacéuticos y administradores, cada uno con responsabilidades y accesos delimitados.
+* **Role (Rol):** Nivel de autorización que define las acciones y la información clínica o financiera a la que un miembro del personal tiene acceso.
+
+**Agendamiento y Logística (Scheduling)**
+
+* **Appointment (Cita Médica):** Reserva de un bloque de tiempo específico que vincula a un paciente con un médico en un consultorio físico determinado, evitando cruces de horarios.
+* **Schedule (Agenda / Horario):** Plantilla de bloques de tiempo que define la disponibilidad de un médico para atender pacientes en días y horas específicas.
+* **Consulting Room (Consultorio):** Espacio físico dentro del policlínico destinado a la atención de pacientes, el cual no puede ser ocupado por dos médicos en el mismo bloque de tiempo.
+* **No-show (Inasistencia):** Situación en la cual un paciente no se presenta a su cita médica programada y no notifica al policlínico con anticipación.
+
+**Atención Clínica (Core Médico)**
+
+* **Patient (Paciente):** Persona que solicita y recibe atención médica, de la cual se registran datos demográficos y antecedentes de salud.
+* **Triage (Triaje):** Proceso previo a la consulta médica donde el personal de enfermería o técnico registra los signos vitales (presión, peso, temperatura) del paciente.
+* **Medical Record (Historia Clínica):** Documento legal y central que recopila de manera cronológica los antecedentes, funciones vitales, evolución y diagnósticos de un paciente.
+* **Consultation (Consulta Médica):** El encuentro directo entre el médico y el paciente, donde se evalúan síntomas y se registran observaciones específicas según la especialidad médica.
+* **Diagnosis (Diagnóstico):** Identificación de la enfermedad o condición del paciente, determinada por el médico y basada preferentemente en catálogos internacionales de salud (como el CIE-10).
+* **Prescription (Receta Médica):** Documento digital emitido por el médico que detalla los medicamentos, dosis y frecuencia del tratamiento indicado para el paciente.
+* **Lab Order (Orden de Laboratorio):** Solicitud formal generada por el médico para que el paciente se realice exámenes complementarios (análisis de sangre, imágenes, etc.).
+
+**Farmacia e Inventario**
+
+* **Product (Producto / Medicamento):** Bien físico, ya sea un medicamento o insumo médico, que se ofrece en la botica del policlínico.
+* **Inventory (Inventario):** El recuento exacto y en tiempo real del stock de productos disponibles en la farmacia del policlínico.
+* **Dispensation (Dispensación):** El acto de despachar y entregar los medicamentos recetados al paciente, acción que reduce inmediatamente el stock del inventario.
+
+**Facturación y Liquidaciones (Billing)**
+
+* **Charge (Cobro):** La cuenta total exigida al paciente en el área de recepción por los servicios de consulta brindados o los medicamentos adquiridos. Todo cobro se realiza por el monto íntegro, sin admitir copagos.
+* **Invoice (Comprobante de Pago):** Documento oficial y con validez fiscal (boleta o factura) que se emite a favor del paciente una vez recibido el pago.
+* **Commission (Comisión):** Porcentaje del costo de la consulta o monto fijo previamente acordado que le corresponde al médico por la atención brindada.
+* **Liquidation (Liquidación):** Cálculo consolidado (diario o mensual) que determina el monto total de dinero que el administrador del policlínico debe transferir a un médico, basado en las atenciones realizadas y sus respectivas comisiones.
