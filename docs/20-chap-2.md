@@ -391,7 +391,9 @@ Como hallazgos transversales tenemos:
 
 ## 2.4. Big Picture EventStorming
 
-*Figura 15 (Big Picture EventStorming)*  
+Link: https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=948975680057
+
+*Figura 15 (Big Picture EventStorming)*
 ![Big Picture EventStorming](../assets/images/figures/15-big-picture-es.png)
 
 ## 2.5. Ubiquitous Language
