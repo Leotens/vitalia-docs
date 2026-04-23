@@ -49,16 +49,16 @@ Realizar un análisis competitivo es fundamental para comprender el entorno en e
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
-**Plan accesible y escalable**
+**Plan accesible y escalable**  
 Ofreceremos planes adaptados al Primer Nivel de Atención de Salud (PNAS), con costos significativamente más accesibles que soluciones complejas como Medilink, permitiendo a consultorios y clínicas adoptar el sistema sin una alta inversión inicial.
 
-**Implementación simple y rápida**
+**Implementación simple y rápida**  
 Vitalia prioriza un onboarding digital sin necesidad de infraestructura adicional, diferenciándose de sistemas que requieren procesos de implementación largos o soporte técnico intensivo.
 
-**Integración total del sistema**
+**Integración total del sistema**  
 Unificamos historia clínica, citas, recetas, farmacia y facturación en una sola plataforma, superando la fragmentación de herramientas como Doctoralia (captación), AgendaPro (agenda) y otros sistemas parciales.
 
-**Adaptación al contexto peruano**
+**Adaptación al contexto peruano**  
 Vitalia se diseña considerando normativas locales y necesidades reales del PNAS, a diferencia de soluciones internacionales o genéricas que no se ajustan al entorno regulatorio ni operativo del país.
 
 ## 2.2. Entrevistas
@@ -108,7 +108,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="../assets/images/figures/18-entrevista-administrador01.png" alt="administrador-01" width="250"/> | <img src="../assets/images/figures/19-entrevistador01.png" alt="entrevistador-01" width="250"/> |
+| <img src="../assets/images/interviews/needfinding/01-entrevista-administrador01.png" width="545"/> | <img src="../assets/images/interviews/needfinding/02-entrevistador01.png" width="175"/> |
 | Inicia: | 13:23 |
 | Duración:| 4:04 |
 | Nombre completo: | Christian David Bazan Calderon |
@@ -120,7 +120,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="../assets/images/figures/20-entrevista-administrador02.png" alt="administrador-02" width="250"/> | <img src="../assets/images/figures/21-entrevistador02.png" alt="entrevistador-02" width="250"/> |
+| <img src="../assets/images/interviews/needfinding/03-entrevista-administrador02.png" alt="administrador-02" width="505"/> | <img src="../assets/images/interviews/needfinding/04-entrevistador02.png" alt="entrevistador-02" width="175"/> |
 | Inicia: | 17:27 |
 | Duración: | 7:38 |
 | Nombre completo: | Diego Leonardo Bazan Calderon |
@@ -132,7 +132,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="../assets/images/figures/22-entrevista-administrador03.png" alt="administrador-03" width="250"/> | <img src="../assets/images/figures/23-entrevistador03.png" width="250"/> |
+| <img src="../assets/images/interviews/needfinding/05-entrevista-administrador03.png" alt="administrador-03" width="435"/> | <img src="../assets/images/interviews/needfinding/06-entrevistador03.png" width="170"/> |
 | Inicia: | 25:40 |
 | Duración: | 4:20 |
 | Nombre completo: | Iris Carpio Bazan |
@@ -146,7 +146,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistadora: Alejandra Astocondor |
 | -------------- | -------------- |
-| <img src="../assets/images/figures/24-entrevista-doctor01.png" alt="doctor-01" width="250"/> | <img src="../assets/images/figures/25-entrevistador04.png" alt="entrevistador-04" width="250"/> |
+| <img src="../assets/images/interviews/needfinding/07-entrevista-doctor01.png" alt="doctor-01" width="650"/> | <img src="../assets/images/interviews/needfinding/08-entrevistador04.png" alt="entrevistador-04" width="165"/> |
 | Inicia: | 0:00 |
 | Duración: | 4:57 |
 | Nombre completo: | Carmen Patricia Gabriela Perez |
@@ -158,7 +158,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="../assets/images/figures/26-entrevista-doctor02.png" alt="doctor-02" width="250"/> | <img src="../assets/images/figures/27-entrevistador05.png" alt="entrevistador-05" width="250"/> |
+| <img src="../assets/images/interviews/needfinding/09-entrevista-doctor02.png" alt="doctor-02" width="500"/> | <img src="../assets/images/interviews/needfinding/10-entrevistador05.png" alt="entrevistador-05" width="168"/> |
 | Inicia | 4:57 |
 | Duración: | 4:50 |
 | Nombre completo: | Jorge Mendoza Toribio |
@@ -170,7 +170,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistado: | Entrevistadora: Alejandra Astocondor |
 | ------------- | -------------- |
-| <img src="../assets/images/figures/28-entrevista-doctor03.png" alt="doctor-03" width="250"/> | <img src="../assets/images/figures/29-entrevistador06.png" alt="entrevistador-06" width="250"/> |
+| <img src="../assets/images/interviews/needfinding/11-entrevista-doctor03.png" alt="doctor-03" width="458"/> | <img src="../assets/images/interviews/needfinding/12-entrevistador06.png" alt="entrevistador-06" width="167"/> |
 | Inicia | 9:47 |
 | Duración: | 3:36 |
 | Nombre completo: | Jose Miguel Mejia Azañero |
@@ -184,7 +184,7 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 | Entrevistada: | Entrevistador: Nestor Rojas |
 | ------------- | -------------- |
-| <img src="../assets/images/figures/30-entrevista-paciente01.png" alt="paciente-01" width="250"/> | <img src="../assets/images/figures/31-entrevistador07.png" alt="entrevistador-07" width="250"/> |
+| <img src="../assets/images/interviews/needfinding/13-entrevista-paciente01.png" alt="paciente-01" width="430"/> | <img src="../assets/images/interviews/needfinding/14-entrevistador07.png" alt="entrevistador-07" width="168"/> |
 | Inicia | 30:00 |
 | Duración: | 5:08 |
 | Nombre completo: | Gianella Levice |
@@ -192,13 +192,133 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 | Distrito: | Los Olivos |
 | Resumen: | La paciente describe una experiencia positiva en clínicas privadas, donde puede agendar citas fácilmente mediante aplicaciones o páginas web. Destaca la rapidez, la disponibilidad de opciones y el acceso digital a resultados médicos. Valora los recordatorios de citas por múltiples canales. Señala que este nivel de digitalización aún no se replica en el sistema público. Considera muy útil una plataforma que integre toda la información médica. |
 
+**Entrevista 2**
+
+| Entrevistado: | Entrevistador: Kamil Diaz |
+| ------------- | -------------- |
+| <img src="../assets/images/interviews/needfinding/15-entrevista-paciente02.png" alt="paciente-02" width= "417"/> | <img src="../assets/images/interviews/needfinding/16-entrevistador08.png" alt="entrevistador-08" width= "170"/> |
+| Inicia | 35:09 |
+| Duración: | 4:46 |
+| Nombre completo: | Jean Pool Miller Barco |
+| Edad: | 20 |
+| Distrito: | San Isidro |
+| Resumen: | El paciente menciona dificultades como falta de especialistas, largas esperas y desorganización. Ha sufrido pérdida de información médica, lo que lo obligó a repetir exámenes. Indica que los resultados suelen manejarse en papel, lo que complica el acceso. Considera fundamental contar con recordatorios y una plataforma digital integrada. Se siente cómodo con pagos digitales, pero exige que sean intuitivos. |
+
+**Entrevista 3**
+
+| Entrevistado: | Entrevistador: Adrian Ruiz |
+| ------------- | -------------- |
+| <img src="../assets/images/interviews/needfinding/17-entrevista-paciente03.png" alt="paciente-03" width= "417"/> | <img src="../assets/images/interviews/needfinding/18-entrevistador09.png" alt="entrevistador-09" width= "167"/> |
+| Inicia | 39:55 |
+| Duración: | 5:10 |
+| Nombre completo: | Luis Vasquez Molina |
+| Edad: |  71 |
+| Distrito: | Lince |
+| Resumen: | El paciente señala que tiene dificultades para agendar citas por teléfono y que no siempre obtiene respuesta inmediata. También experimenta problemas para acceder a resultados y carece de un sistema digital donde visualizar su historial. Considera útiles los recordatorios, pero muestra limitaciones en el uso de herramientas digitales, especialmente en pagos. Valora la idea de una plataforma integrada, aunque necesita que sea sencilla e intuitiva. |
+
+**Entrevista 4**
+
+| Entrevistado: | Entrevistador: Leo Dulanto |
+| ------------- | -------------- |
+| <img src="../assets/images/interviews/needfinding/19-entrevista-paciente04.png" alt="paciente-04" width= "500"/> | <img src="../assets/images/interviews/needfinding/20-entrevistador10.png" alt="entrevistador-10" width= "167"/> |
+| Inicia | 45:05 |
+| Duración: | 5:32 |
+| Nombre completo: | Victoria Margarita Espino Huatay |
+| Edad: | 48 años |
+| Distrito: | Lima |
+| Resumen: | La paciente describe una experiencia compleja en hospitales públicos, con dificultades para agendar citas, largos tiempos de espera y problemas en la atención. Señala falta de cumplimiento de horarios, escasez de insumos y necesidad de repetir trámites. El acceso a resultados es limitado y depende del personal de salud. Considera muy importante recibir recordatorios y valora los sistemas digitales, aunque con cierta desconfianza en pagos en línea. Destaca que una plataforma integrada mejoraría significativamente su experiencia. |
+
 ### 2.2.3. Análisis de entrevistas
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
+***1. Características objetivas***
+
+El 100% de los administradores (3/3) utiliza múltiples sistemas no integrados, incluyendo herramientas como Excel, WhatsApp, sistemas propios o software externo.
+
+* El 100% (3/3) reporta falta de integración entre sistemas
+* El 66% (2/3) menciona duplicación de datos o procesos
+* El 100% (3/3) utiliza herramientas digitales, pero de forma fragmentada
+
+En términos de implementación:
+
+* El 66% (2/3) considera que la integración es el factor más importante
+* El 33% (1/3) resalta la limitación de recursos externos (dependencia institucional)
+
+***2. Características subjetivas***
+ 
+* El 100% (3/3) considera que un sistema integral mejoraría la gestión
+* El 66% (2/3) valora la toma de decisiones basada en datos
+* El 33% (1/3) enfatiza la facilidad de uso debido a brecha generacional
+* El 33% (1/3) identifica la seguridad como preocupación relevante
+
+Además, el 100% (3/3) coincide en la necesidad de integrar:
+
+* Historia clínica electrónica
+* Citas
+* Facturación
+* Servicios auxiliares
+
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
+***1. Características objetivas***
+ 
+El 100% de los médicos (3/3) utiliza sistemas digitales de historia clínica (ESI), lo que evidencia que la digitalización ya está incorporada en su práctica diaria. Asimismo, el 100% reporta tiempos de consulta cortos (~12 minutos), lo que condiciona su interacción con el sistema. En cuanto a dificultades:
+
+* El 100% (3/3) menciona problemas de lentitud del sistema o internet
+* El 33% (1/3) reporta pérdida de información
+* El 0% (0/3) ha experimentado directamente errores de duplicidad, aunque reconocen su existencia
+
+Por otro lado, el 66% (2/3) indica que la gestión de recetas y exámenes es sencilla, pero requiere adaptación inicial.
+
+***2. Características subjetivas***
+  
+El 100% (3/3) se siente cómodo utilizando herramientas digitales, lo que indica una alta aceptación tecnológica. Sin embargo:
+
+* El 100% (3/3) percibe que el sistema consume tiempo valioso de consulta
+* El 66% (2/3) expresa necesidad de optimizar el registro de información
+* El 66% (2/3) sugiere soluciones relacionadas con automatización (triaje, recetas)
+* El 33% (1/3) propone directamente inteligencia artificial (resúmenes automáticos)
+
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
+
+***1. Características objetivas***
+
+Acceso a citas:
+
+* El 50% (2/4) accede fácilmente a citas mediante medios digitales
+* El 50% (2/4) presenta dificultades (teléfono, presencial, demoras)
+
+Tiempos de espera:
+
+* El 75% (3/4) reporta esperas prolongadas (semanas o meses)
+
+Acceso a información:
+
+* El 75% (3/4) tiene dificultades para acceder a su historial o resultados
+* El 50% (2/4) ha experimentado problemas como:
+  * pérdida de información
+  * repetición de exámenes
+
+Uso de digital:
+
+* El 75% (3/4) utiliza herramientas digitales
+* El 25% (1/4) presenta dificultades tecnológicas
+
+***2. Características subjetivas***
+
+* El 100% (4/4) considera importante contar con:
+  * recordatorios de citas
+  * acceso digital a información
+* El 75% (3/4) muestra disposición positiva hacia plataformas digitales integradas
+* El 25% (1/4) muestra inseguridad o dificultad en el uso tecnológico
+* El 100% (4/4) percibe que una plataforma unificada mejoraría su experiencia
+
+Como hallazgos transversales tenemos:
+
+* El 100% de los segmentos identifica problemas relacionados con la fragmentación de sistemas
+* El 100% de los médicos y administradores utiliza sistemas digitales, pero con limitaciones
+* El 80% de los entrevistados (8/10) experimenta problemas de acceso, tiempo o información
 
 ## 2.3. Needfinding
 
@@ -271,4 +391,45 @@ Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202410678_upc_edu_pe/IQ
 
 ## 2.4. Big Picture EventStorming
 
+Link: https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=948975680057
+
+*Figura 15 (Big Picture EventStorming)*
+![Big Picture EventStorming](../assets/images/figures/15-big-picture-es.png)
+
 ## 2.5. Ubiquitous Language
+
+**Organización y Estructura (Gestión de la Clínica)**
+
+* **Tenant (Policlínico):** Establecimiento de salud de atención primaria que opera de manera independiente y centraliza sus procesos clínicos, administrativos y de farmacia en la plataforma..
+* **Staff Member (Miembro del Personal):** Cualquier individuo que labora en el policlínico, incluyendo médicos, recepcionistas, farmacéuticos y administradores, cada uno con responsabilidades y accesos delimitados.
+* **Role (Rol):** Nivel de autorización que define las acciones y la información clínica o financiera a la que un miembro del personal tiene acceso.
+
+**Agendamiento y Logística (Scheduling)**
+
+* **Appointment (Cita Médica):** Reserva de un bloque de tiempo específico que vincula a un paciente con un médico en un consultorio físico determinado, evitando cruces de horarios.
+* **Schedule (Agenda / Horario):** Plantilla de bloques de tiempo que define la disponibilidad de un médico para atender pacientes en días y horas específicas.
+* **Consulting Room (Consultorio):** Espacio físico dentro del policlínico destinado a la atención de pacientes, el cual no puede ser ocupado por dos médicos en el mismo bloque de tiempo.
+* **No-show (Inasistencia):** Situación en la cual un paciente no se presenta a su cita médica programada y no notifica al policlínico con anticipación.
+
+**Atención Clínica (Core Médico)**
+
+* **Patient (Paciente):** Persona que solicita y recibe atención médica, de la cual se registran datos demográficos y antecedentes de salud.
+* **Triage (Triaje):** Proceso previo a la consulta médica donde el personal de enfermería o técnico registra los signos vitales (presión, peso, temperatura) del paciente.
+* **Medical Record (Historia Clínica):** Documento legal y central que recopila de manera cronológica los antecedentes, funciones vitales, evolución y diagnósticos de un paciente.
+* **Consultation (Consulta Médica):** El encuentro directo entre el médico y el paciente, donde se evalúan síntomas y se registran observaciones específicas según la especialidad médica.
+* **Diagnosis (Diagnóstico):** Identificación de la enfermedad o condición del paciente, determinada por el médico y basada preferentemente en catálogos internacionales de salud (como el CIE-10).
+* **Prescription (Receta Médica):** Documento digital emitido por el médico que detalla los medicamentos, dosis y frecuencia del tratamiento indicado para el paciente.
+* **Lab Order (Orden de Laboratorio):** Solicitud formal generada por el médico para que el paciente se realice exámenes complementarios (análisis de sangre, imágenes, etc.).
+
+**Farmacia e Inventario**
+
+* **Product (Producto / Medicamento):** Bien físico, ya sea un medicamento o insumo médico, que se ofrece en la botica del policlínico.
+* **Inventory (Inventario):** El recuento exacto y en tiempo real del stock de productos disponibles en la farmacia del policlínico.
+* **Dispensation (Dispensación):** El acto de despachar y entregar los medicamentos recetados al paciente, acción que reduce inmediatamente el stock del inventario.
+
+**Facturación y Liquidaciones (Billing)**
+
+* **Charge (Cobro):** La cuenta total exigida al paciente en el área de recepción por los servicios de consulta brindados o los medicamentos adquiridos. Todo cobro se realiza por el monto íntegro, sin admitir copagos.
+* **Invoice (Comprobante de Pago):** Documento oficial y con validez fiscal (boleta o factura) que se emite a favor del paciente una vez recibido el pago.
+* **Commission (Comisión):** Porcentaje del costo de la consulta o monto fijo previamente acordado que le corresponde al médico por la atención brindada.
+* **Liquidation (Liquidación):** Cálculo consolidado (diario o mensual) que determina el monto total de dinero que el administrador del policlínico debe transferir a un médico, basado en las atenciones realizadas y sus respectivas comisiones.

@@ -2,6 +2,7 @@
 
 ## 3.1. User Stories
 
+<<<<<<< HEAD
 **Epics**
 
 | Epic ID | Título | Descripción |
@@ -61,3 +62,12 @@
 | US043 | Evidencia de diferenciación competitiva | **Como** visitante institucional, **quiero** entender qué diferencia a Vitalia de otras alternativas, **para** sustentar una posible decisión de compra. | **Scenario 1: Diferenciadores visibles**<br>**Given** que el visitante compara soluciones del mercado,<br>**When** revisa la landing page de Vitalia,<br>**Then** encuentra mensajes claros sobre integración clínica, accesibilidad y adaptación al contexto peruano.<br><br>**Scenario 2: Información insuficiente para decidir**<br>**Given** que el visitante busca argumentos concretos de valor,<br>**When** entra a la sección comparativa o de beneficios,<br>**Then** el sistema le ofrece información suficiente para continuar hacia contacto comercial. | E5 |
 | US044 | Llamados a la acción visibles | **Como** visitante, **quiero** encontrar botones de acción claros en la landing page, **para** solicitar información sin perder tiempo buscando cómo continuar. | **Scenario 1: CTA disponible en puntos clave**<br>**Given** que el visitante recorre la landing page,<br>**When** llega a secciones principales del sitio,<br>**Then** visualiza llamados a la acción para contacto o demostración.<br><br>**Scenario 2: Navegación sin fricción hacia conversión**<br>**Given** que el visitante decide solicitar más información,<br>**When** selecciona un botón de acción visible,<br>**Then** el sistema lo dirige directamente al formulario o canal de contacto correspondiente. | E5 |
 
+=======
+
+
+## 3.2. Impact Mapping
+
+
+
+## 3.3. Product Backlog
+>>>>>>> 78be6e6f9a73bafc3955743326fda929beccd629
