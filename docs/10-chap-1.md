@@ -42,11 +42,11 @@ KinetiaLabs ofrece más que desarrollo de software, proporcionamos una asociaci�
 
 | Foto | Nombre | Descripción |
 | --- | --- | --- |
-| <img src="../assets/images/team-photos/adrian-photo.jpg" alt="adrian-photo" width="250"/> | Ruiz Mideyros, Adrian (U20241E177) | Estudiante de Ingeniería de Software, apasionado por la tecnología desde pequeño. Desarrollador de aplicaciones y videojuegos, con conocimientos en C++, Python, Web Stock y otras tecnologías. Me considero una persona proactiva, con gran disposición para aprender constantemente y apoyar en lo que se necesite. |
-| <img src="../assets/images/team-photos/nestor-photo.png" alt="nestor-photo" width="250"/> | Rojas Tello, Nestor Alonso (U202317099) | Estudiante de Ingeniería de Software. Tengo conocimientos en C++, Python, JavaScript y CSS. Me considero una persona colaborativa, responsable y con disposición para resolver dudas y proponer soluciones ante cualquier desafío. |
-| <img src="../assets/images/team-photos/ale-photo.jpg" alt="ale-photo" width="250"/> | Astocondor Bazan, Alejandra Isabel (U202410678) | Estudiante de Ingeniería de Software, enfocada en el desarrollo de soluciones tecnológicas. Poseo habilidades en programación y diseño digital.  Me caracterizo por mi creatividad, responsabilidad y capacidad de adaptación.  |
-| <img src="../assets/images/team-photos/kamil-photo.jpg" alt="kamil-photo" width="250"/> | Diaz Martinez, Alexther Kamil  (U202412316) | Estudiante de ingeniería de software, me gusta programar, tengo conocimiento en C++ y Python, me gustan los desafíos. Mi meta es aplicar mi optimismo y capacidad técnica para desarrollar software que genere un impacto real. |
-| <img src="../assets/images/team-photos/leo-photo.jpg" alt="leo-photo" width="250"/> | Dulanto Espino, Leo César (U202410254) | Estudiante de Ingeniería de Software, con conocimientos en C++, Python, y básico de web y Java. Me gusta crear soluciones creativas a los problemas, además de participar y apoyar al equipo en cualquier progreso o dificultad. |
+| <img src="../assets/images/team-photos/adrian-photo.jpg" alt="adrian-photo" width="565"/> | Ruiz Mideyros, Adrian (U20241E177) | Estudiante de Ingeniería de Software, apasionado por la tecnología desde pequeño. Desarrollador de aplicaciones y videojuegos, con conocimientos en C++, Python, Web Stock y otras tecnologías. Me considero una persona proactiva, con gran disposición para aprender constantemente y apoyar en lo que se necesite. |
+| <img src="../assets/images/team-photos/nestor-photo.png" alt="nestor-photo" width="565"/> | Rojas Tello, Nestor Alonso (U202317099) | Estudiante de Ingeniería de Software. Tengo conocimientos en C++, Python, JavaScript y CSS. Me considero una persona colaborativa, responsable y con disposición para resolver dudas y proponer soluciones ante cualquier desafío. |
+| <img src="../assets/images/team-photos/ale-photo.jpg" alt="ale-photo" width="565"/> | Astocondor Bazan, Alejandra Isabel (U202410678) | Estudiante de Ingeniería de Software, enfocada en el desarrollo de soluciones tecnológicas. Poseo habilidades en programación y diseño digital.  Me caracterizo por mi creatividad, responsabilidad y capacidad de adaptación.  |
+| <img src="../assets/images/team-photos/kamil-photo.jpg" alt="kamil-photo" width="565"/> | Diaz Martinez, Alexther Kamil  (U202412316) | Estudiante de ingeniería de software, me gusta programar, tengo conocimiento en C++ y Python, me gustan los desafíos. Mi meta es aplicar mi optimismo y capacidad técnica para desarrollar software que genere un impacto real. |
+| <img src="../assets/images/team-photos/leo-photo.jpg" alt="leo-photo" width="565"/> | Dulanto Espino, Leo César (U202410254) | Estudiante de Ingeniería de Software, con conocimientos en C++, Python, y básico de web y Java. Me gusta crear soluciones creativas a los problemas, además de participar y apoyar al equipo en cualquier progreso o dificultad. |
 
 ## 1.2. Solution Profile
 
@@ -85,7 +85,7 @@ El problema se manifiesta en la práctica mediante la duplicidad de registros de
 *7. ¿Cuánto cuesta o cuál es la magnitud? (How much?)*
 
 *Figura 1 (Macroproceso: sistema de información)*  
-<img src="../assets/images/figures/01-macroproceso.png" alt = "Macroproceso: sistema de informacion" width = "400"><br>
+<img src="../assets/images/figures/01-macroproceso.png" alt="Macroproceso: sistema de informacion" style="width: 100vw;">
 > **Nota.** Adaptado del Ministerio de Salud de Perú (2011).
 
 El MINSA identifico brechas significativas en capacidades tecnológicas y de gestión, dado que el 71% de los establecimientos de salud no ha identificado sus necesidades en recursos informáticos ni en personal especializado, y el 72% no cuenta con métodos formales y permanentes para la evaluación, recolección, procesamiento y análisis de información (Ministerio de Salud del Perú, 2011).
@@ -175,7 +175,7 @@ Creemos que la automatización de métricas y resúmenes de actividad clínica e
 Link: https://canva.link/pgncw7ixx515oud
 
 *Figura 2 (Lean Product Canvas)*  
-![Lean Product Canvas](../assets/images/figures/02-lean-product-canvas.jpg)
+<img src="../assets/images/figures/02-lean-product-canvas.jpg" alt="Lean UX Canvas" style="width: 100vw;">
 
 ## 1.3. Segmentos objetivo
 

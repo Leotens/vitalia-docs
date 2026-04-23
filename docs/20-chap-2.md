@@ -326,75 +326,81 @@ Como hallazgos transversales tenemos:
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
-*Figura 3 (User Persona 1)*  
-![User Persona 1](../assets/images/figures/03-user-persona-1.png)
+*Figura 3 (User Persona 1)*
+<img src="../assets/images/figures/03-user-persona-1.png" alt="User Persona 1" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
 *Figura 4 (User Persona 2)*  
-![User Persona 2](../assets/images/figures/04-user-persona-2.png)
+<img src="../assets/images/figures/04-user-persona-2.png" alt="User Persona 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
 *Figura 5 (User Persona 3)*  
-![User Persona 3](../assets/images/figures/05-user-persona-3.png)
+<img src="../assets/images/figures/05-user-persona-3.png" alt="User Persona 3" style="width: 100vw;">
 
 ### 2.3.2. User Task Matrix
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
-*Figura 6 (User Task Matrix 1)*  
-![User Task Matrix 1](../assets/images/figures/06-u-task-matrix-1.png)
+*Figura 6 (User Task Matrix 1)*
+<img src="../assets/images/figures/06-u-task-matrix-1.png" alt="User Task Matrix 1" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
-*Figura 7 (User Task Matrix 2)*  
-![User Task Matrix 2](../assets/images/figures/07-u-task-matrix-2.png)
+*Figura 7 (User Task Matrix 2)*
+<img src="../assets/images/figures/07-u-task-matrix-2.png" alt="User Task Matrix 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
 *Figura 8 (User Task Matrix 3)*  
-![User Task Matrix 3](../assets/images/figures/08-u-task-matrix-3.png)
+<img src="../assets/images/figures/08-u-task-matrix-3.png" alt="User Task Matrix 2" style="width: 100vw;">
 
 ### 2.3.3. User Journey Mapping
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
-*Figura 9 (User Journey Mapping 1)*  
-![User Journey Mapping 1](../assets/images/figures/09-u-journey-mapping-1.png)
+*Figura 9 (User Journey Mapping 1)*
+<img src="../assets/images/figures/09-u-journey-mapping-1.png" alt="User Journey Mapping 1" style="width: 100vw;">
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
-*Figura 10 (User Journey Mapping 2)*  
-![User Journey Mapping 2](../assets/images/figures/10-u-journey-mapping-2.png)
+*Figura 10 (User Journey Mapping 2)*
+<img src="../assets/images/figures/10-u-journey-mapping-2.png" alt="User Journey Mapping 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
-*Figura 11 (User Journey Mapping 3)*  
-![User Journey Mapping 3](../assets/images/figures/11-u-journey-mapping-3.png)
+*Figura 11 (User Journey Mapping 3)*
+<img src="../assets/images/figures/11-u-journey-mapping-3.png" alt="User Journey Mapping 3" style="width: 100vw;"> 
 
 ### 2.3.4. Empathy Mapping
 
 **Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
 
-*Figura 12 (Empathy Mapping 1)*  
-![Empathy Mapping 1](../assets/images/figures/12-empathy-mapping-1.png)
+*Figura 12 (Empathy Mapping 1)*
+<img src="../assets/images/figures/12-empathy-mapping-1.png" alt="Empathy Mapping 1" style="width: 100vw;">   
 
 **Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
 
-*Figura 13 (Empathy Mapping 2)*  
-![Empathy Mapping 2](../assets/images/figures/13-empathy-mapping-2.png)
+*Figura 13 (Empathy Mapping 2)*
+<img src="../assets/images/figures/13-empathy-mapping-2.png" alt="Empathy Mapping 2" style="width: 100vw;">
 
 **Tercer Segmento Objetivo (Pacientes de todas las edades)**
 
-*Figura 14 (Empathy Mapping 3)*  
-![Empathy Mapping 3](../assets/images/figures/14-empathy-mapping-3.png)
+*Figura 14 (Empathy Mapping 3)*
+<img src="../assets/images/figures/14-empathy-mapping-3.png" alt="Empathy Mapping 3" style="width: 100vw;">  
 
 ## 2.4. Big Picture EventStorming
+
+Se utilizó la guía Step-by-Step Guide de Philippe Bourgau, proporcionada en la rúbrica del Final Problem Statement, para llevar a cabo el proceso de Big Picture Event Storming, siguiendo sus etapas:
+
+- Open
+- Explore
+- Close
 
 Link: https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=948975680057
 
 *Figura 15 (Big Picture EventStorming)*
-![Big Picture EventStorming](../assets/images/figures/15-big-picture-es.png)
+<img src="../assets/images/figures/15-big-picture-es.png" alt="Big Picture Event Storming" style="width: 100vw;">
 
 ## 2.5. Ubiquitous Language
 
