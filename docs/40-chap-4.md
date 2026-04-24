@@ -39,7 +39,7 @@ Se utiliza una estrategia de fuentes combinadas para equilibrar la precisión cl
 - Label (Inter): Utilizada para metadatos (ej. fechas de última visita, IDs de pacientes) y etiquetas secundarias en color on_surface_variant para que pasen a un segundo plano, permitiendo que el dato principal resalte.
 
 *Figura 17 (Color Palette & Tipography)*  
-<img src="../assets/images/figures/17-color-palette.png" alt="Color Palette & Tipography" style="width: 100vw;">
+<img src="../assets/images/figures/19-color-palette.png" alt="Color Palette & Tipography" style="width: 100vw;">
 
 **Componentes y Espaciado**
 
