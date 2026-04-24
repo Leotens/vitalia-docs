@@ -63,10 +63,20 @@
 
 ## 3.2. Impact Mapping
 
-<!--
-*Figura 16 (Impact Mapping)*  
-<img src="../assets/images/figures/16-macroproceso.png" alt="Impact Mapping" style="width: 100vw;">
--->
+**Primer Segmento Objetivo (Administradores de establecimientos de PNAS)**
+
+*Figura 16 (Impact Map 1)*  
+<img src="../assets/images/figures/16-Alexandra_Juárez_Impact_Map.png" alt="Impact Map 1" style="width: 100vw;">
+
+**Segundo Segmento Objetivo (Doctores de establecimientos de PNAS)**
+
+*Figura 17 (Impact Map 2)*
+<img src="../assets/images/figures/.png" alt="Impact Map 2" style="width: 100vw;">
+
+**Tercer Segmento Objetivo (Pacientes de todas las edades)**
+
+*Figura 18 (Impact Map 3)*
+<img src="../assets/images/figures/.png" alt="Impact Map 3" style="width: 100vw;">
 
 ## 3.3. Product Backlog
 
