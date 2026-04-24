@@ -139,10 +139,12 @@ La tipografía se escala dinámicamente para asegurar que los datos no abrumen e
 
 ### 4.3.1. Landing Page Wireframe
 
+*Figura 17 (Landing Page Wireframe)*  
 <img src="../assets/images/figures/xx-landing-wireframe.png" alt="Landing Page Wireframe" style="width: 100vw;">
 
 ### 4.3.2. Landing Page Mock-up
 
+*Figura 18 (Landing Page Mock-up)* 
 <img src="../assets/images/figures/xx-landing-mockup.png" alt="Landing Page Wireframe" style="width: 100vw;">
 
 ## 4.4. Web Applications UX/UI Design
