@@ -145,7 +145,7 @@ La tipografía se escala dinámicamente para asegurar que los datos no abrumen e
 ### 4.3.2. Landing Page Mock-up
 
 *Figura 21 (Landing Page Mock-up)* 
-<img src="../assets/images/figures/21-landing-mockup.png" alt="Landing Page Wireframe" style="width: 100vw;">
+<img src="../assets/images/figures/21-landing-mockup.png" alt="Landing Page Mock-Up" style="width: 100vw;">
 
 ## 4.4. Web Applications UX/UI Design
 
@@ -209,83 +209,71 @@ Se utilizó la guía de Philippe Bourgau, proporcionada en la rúbrica del Final
 Miro Board Link: https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=948975680057
 
 *Figura XX (Design Level EventStorming)*  
-<img src="../assets/images/figures/xx-design-level-event-storming.jpg" alt="Design Level EventStorming" style="width: 100vw;">
+<img src="../assets/images/figures/xx-design-level-event-storming.jpeg" alt="Design Level EventStorming" style="width: 100vw;">
 
 ### 4.6.2. Software Architecture Context Diagram
 
+El diagrama de contexto presenta una visión de alto nivel del sistema Vitalia, mostrando su interacción con los actores externos y sistemas externos relevantes. Este diagrama permite comprender el alcance del sistema, identificando quiénes lo utilizan y con qué servicios externos se integra, sin entrar en detalles técnicos internos.
 
+*Figura XX (Context Diagram)*  
+<img src="../assets/images/figures/xx-context-diagram.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 ### 4.6.3. Software Architecture Container Diagrams
 
+El diagrama de contenedores descompone el sistema en sus principales unidades de ejecución, mostrando cómo se distribuyen las responsabilidades dentro de la arquitectura. En este nivel se identifican elementos como la aplicación web, API Gateway y los distintos servicios o bounded contexts, así como las tecnologías utilizadas y la forma en que estos se comunican entre sí.
 
+*Figura XX (Container Diagram)*  
+<img src="../assets/images/figures/xx-container-diagram.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 ### 4.6.4. Software Architecture Components Diagrams
 
+El diagrama de componentes profundiza en cada contenedor, detallando los módulos internos que lo conforman y sus interacciones. Este nivel permite visualizar la organización interna.
 
+*Figura XX (Component Diagram - Identity & Tenant Context)*  
+<img src="../assets/images/figures/xx-component-diagram-1.png" alt="Design Level EventStorming" style="width: 100vw;">
+
+*Figura XX (Component Diagram - Clinical Context)*  
+<img src="../assets/images/figures/xx-component-diagram-2.png" alt="Design Level EventStorming" style="width: 100vw;">
+
+*Figura XX (Component Diagram - Schedule Context)*  
+<img src="../assets/images/figures/xx-component-diagram-3.png" alt="Design Level EventStorming" style="width: 100vw;">
+
+*Figura XX (Component Diagram - Pharmacy & Inventory Context)*  
+<img src="../assets/images/figures/xx-component-diagram-4.png" alt="Design Level EventStorming" style="width: 100vw;">
+
+*Figura XX (Component Diagram - Dashboard and Analytics Context)*  
+<img src="../assets/images/figures/xx-component-diagram-5.png" alt="Design Level EventStorming" style="width: 100vw;">
+
+*Figura XX (Component Diagram - Billing Context)*  
+<img src="../assets/images/figures/xx-component-diagram-6.png" alt="Design Level EventStorming" style="width: 100vw;">
 
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagrams
 
-- **Etapa 1: Actualizar el Diagrama de clases en base al enfoque DDD**
-En esta etapa planteamos todas las clases del programa y viendo los tipos de relaciones y multiplicidades de las clases, sus variables y funciones.
-**Figura XX (Stage 1 Class Diagram - Domain Model Update)**  
-La imagen presenta el diagrama de clases general de Vitalia, integrando las principales entidades del dominio y sus relaciones.
-<img src="../assets/images/figures/xx-Etapa1-ActualizarDiagramaDDD.png" alt="Stage 1 Class Diagram - Domain Model Update" style="width: 100vw;">
+En la primera etapa, se elaboró el diagrama de clases general identificando las principales entidades del dominio de Vitalia, así como sus atributos, métodos, relaciones y multiplicidades. Este paso permitió establecer una visión global del sistema, asegurando que todos los elementos relevantes del negocio estuvieran correctamente modelados y conectados entre sí.
 
-- **Etapa 2: Agrupar las clases en Bounded Context**
-En esta etapa de el DDD vemos como las clases se separan en bounded context segun su relación, finalidad en el software de ecomind y preparandonos para la etapa final donde veremos como individualiza cada bounded relacionandolos con los otros mediante los value object.
+En la segunda etapa, estas clases fueron organizadas en distintos Bounded Context, agrupándolas según su responsabilidad, propósito y cohesión dentro del sistema. Esta separación permitió delimitar claramente los contextos del dominio, facilitando la comprensión del sistema y reduciendo la complejidad al dividirlo en módulos más manejables, alineados con la lógica de negocio.
 
-**Figura XX (Stage 2 Class Diagram - Identity and Clinic Context)**  
-La imagen muestra las clases del Bounded Context de identidad, clinicas, usuarios, roles y accesos.
-<img src="../assets/images/figures/xx-Etapa2-BCIdentityClinicContext.png" alt="Stage 2 Class Diagram - Identity and Clinic Context" style="width: 100vw;">
+Finalmente, en la tercera etapa, se realizó un análisis más profundo de cada clase dentro de su contexto, clasificándolas como Entity, Value Object o Aggregate. Esta identificación permitió definir con precisión las reglas de negocio, los límites de consistencia y las responsabilidades de cada componente dentro del dominio. Como resultado, los diagramas finales reflejan una arquitectura sólida, coherente y alineada con los principios de DDD, mostrando no solo la estructura del sistema, sino también la lógica y comportamiento del dominio.
 
-**Figura XX (Stage 2 Class Diagram - Electronic Medical Record Context)**  
-La imagen describe las clases del Bounded Context clinico para historia medica electronica, atenciones, diagnosticos y recetas.
-<img src="../assets/images/figures/xx-Etapa2-BCElectronicMedicalRecord.png" alt="Stage 2 Class Diagram - Electronic Medical Record Context" style="width: 100vw;">
+*Figura XX (Class Diagram - Identity & Tenant)*  
+<img src="../assets/images/figures/xx-class-diagram-1.png" alt="Class Diagram - Identity and Tenant" style="width: 100vw;">
 
-**Figura XX (Stage 2 Class Diagram - Scheduling and Appointment Context)**
-La imagen presenta las clases del Bounded Context de agendamiento, incluyendo agendas, bloques horarios, citas y recordatorios.
-<img src="../assets/images/figures/xx-Etapa2-BCSchedulingAppointment.png" alt="Stage 2 Class Diagram - Scheduling and Appointment Context" style="width: 100vw;">
+*Figura XX (Class Diagram - Clinical Context)*  
+<img src="../assets/images/figures/xx-class-diagram-2.png" alt="Class Diagram - Clinical Context" style="width: 100vw;">
 
-**Figura XX (Stage 2 Class Diagram - Pharmacy and Inventory Context)**  
-La imagen muestra las clases del Bounded Context de farmacia e inventario, con medicamentos, existencias, lotes, movimientos y dispensacion.
-<img src="../assets/images/figures/xx-Etapa2-BCPharmacyInventoryContext.png" alt="Stage 2 Class Diagram - Pharmacy and Inventory Context" style="width: 100vw;">
+*Figura XX (Class Diagram - Schedule Context)*  
+<img src="../assets/images/figures/xx-class-diagram-3.png" alt="Class Diagram - Schedule Context" style="width: 100vw;">
 
-**Figura XX (Stage 2 Class Diagram - Dashboard and Analytics Context)**  
-La imagen resume las clases del Bounded Context de panel de control y analitica, incluyendo reportes, metricas, filtros y fuentes de datos.
-<img src="../assets/images/figures/xx-Etapa2-BCDashboardAnalytics.png" alt="Stage 2 Class Diagram - Dashboard and Analytics Context" style="width: 100vw;">
+*Figura XX (Class Diagram - Pharmacy & Inventory Context)*  
+<img src="../assets/images/figures/xx-class-diagram-4.png" alt="Class Diagram - Pharmacy & Inventory Context" style="width: 100vw;">
 
-**Figura XX (Stage 2 Class Diagram - Billing Context)**  
-La imagen presenta las clases del Bounded Context de facturacion, caja, pagos, comprobantes y pasarela SUNAT.
-<img src="../assets/images/figures/xx-Etapa2-BCBillingContext.png" alt="Stage 2 Class Diagram - Billing Context" style="width: 100vw;">
+*Figura XX (Class Diagram - Dashboard and Analytics Context)*  
+<img src="../assets/images/figures/xx-class-diagram-5.png" alt="Class Diagram - Dashboard and Analytics Context" style="width: 100vw;">
 
-- **Etapa 3: Indentificación de Value Object, Entity y Aggregate**
-En esta etapa final analizaremos las clases para definirlas como Value Object, Entity y Aggregate basado en el enfoque DDD.
-**Figura XX (Stage 3 Class Diagram - Identity and Clinic Context)**  
-La imagen detalla el Bounded Context de identidad y clinica incorporando estereotipos de aggregate, entity y value object.
-<img src="../assets/images/figures/xx-Etapa3-BCIdentityClinicContext.png" alt="Stage 3 Class Diagram - Identity and Clinic Context" style="width: 100vw;">
-
-**Figura XX (Stage 3 Class Diagram - Electronic Medical Record Context)**  
-La imagen muestra el Bounded Context clinico refinado con agregados, entidades, objetos de valor e identificadores externos.
-<img src="../assets/images/figures/xx-Etapa3-BCElectronicMedicalRecord.png" alt="Stage 3 Class Diagram - Electronic Medical Record Context" style="width: 100vw;">
-
-**Figura XX (Stage 3 Class Diagram - Scheduling and Appointment Context)**  
-La imagen presenta el Bounded Context de agendamiento refinado con agregados, entidades y objetos de valor para referencias entre contextos.
-<img src="../assets/images/figures/xx-Etapa3-BCSchedulingAppointment.png" alt="Stage 3 Class Diagram - Scheduling and Appointment Context" style="width: 100vw;">
-
-**Figura XX (Stage 3 Class Diagram - Pharmacy and Inventory Context)**  
-La imagen detalla el Bounded Context de farmacia e inventario, diferenciando agregados, entidades y objetos de valor del subdominio.
-<img src="../assets/images/figures/xx-Etapa3-BCPharmacyInventoryContext.png" alt="Stage 3 Class Diagram - Pharmacy and Inventory Context" style="width: 100vw;">
-
-**Figura XX (Stage 3 Class Diagram - Dashboard and Analytics Context)** 
-La imagen muestra el Bounded Context de panel de control y analitica con sus agregados de reportes, entidades de soporte y filtros.
-<img src="../assets/images/figures/xx-Etapa3-BCDashboardAnalytics.png" alt="Stage 3 Class Diagram - Dashboard and Analytics Context" style="width: 100vw;">
-
-**Figura XX (Stage 3 Class Diagram - Billing Context)** 
-La imagen presenta el Bounded Context de facturacion refinado con caja, ordenes de cobro, pagos, comprobantes e identificadores externos.
-<img src="../assets/images/figures/xx-Etapa3-BCBillingContext.png" alt="Stage 3 Class Diagram - Billing Context" style="width: 100vw;">
-## 4.8. Database Design
+*Figura XX (Class Diagram - Billing Context)*  
+<img src="../assets/images/figures/xx-class-diagram-6.png" alt="Class Diagram - Billing Context" style="width: 100vw;">
 
 ### 4.8.1. Database Diagrams
 

@@ -400,7 +400,7 @@ Se utilizó la guía Step-by-Step Guide de Philippe Bourgau, proporcionada en la
 Miro Board Link: https://miro.com/app/board/uXjVGhdfT5g=/?share_link_id=948975680057
 
 *Figura 15 (Big Picture EventStorming)*
-<img src="../assets/images/figures/15-big-picture-event-storming.jpg" alt="Big Picture Event Storming" style="width: 100vw;">
+<img src="../assets/images/figures/15-big-picture-event-storming.jpeg" alt="Big Picture Event Storming" style="width: 100vw;">
 
 ## 2.5. Ubiquitous Language
 
