@@ -114,27 +114,85 @@ La tipografía se escala dinámicamente para asegurar que los datos no abrumen e
 - Componente "Vital Trace": En resoluciones pequeñas, el gráfico miniatura de barras reducirá el número de barras visibles (mostrando solo las más recientes) antes de permitir que el componente se comprima demasiado y pierda su utilidad visual.
 
 ## 4.2. Information Architecture
+La arquitectura de la información de Vitalia tiene como propósito principal estructurar, organizar y etiquetar el contenido de manera lógica y predecible. Las decisiones planteadas en esta sección están orientadas a garantizar que tanto los visitantes (en el Landing Page) como los usuarios de la clínica (en la Web Application) puedan adaptarse con fluidez a la plataforma, encontrando lo que necesitan sin esfuerzo cognitivo.
 
 ### 4.2.1. Organization Systems
 
+Para estructurar los volúmenes de información de manera eficiente, Vitalia aplica una combinación de esquemas de organización visual y de categorización, adaptados al contexto del usuario.
 
+**Esquemas de Organización Visual:**
+* **Organización Jerárquica (Visual Hierarchy):** Utilizada en la Web Application. Existe un Dashboard principal que actúa como tronco, del cual se desprenden las ramas o módulos (Citas, Pacientes, Farmacia), terminando en las "hojas" o vistas de detalle (ej. el detalle de una consulta específica).
+* **Organización Secuencial (Step-by-step):** Aplicada en procesos cerrados, como el *Booking Wizard* (donde el paciente elige especialidad $\rightarrow$ fecha $\rightarrow$ confirmación) y en el Landing Page para contar la historia del producto de forma progresiva.
+
+**Esquemas de Categorización**
+
+* **Según Audiencia (Grupos de Usuarios):** Utilizado en el Landing Page para segmentar el contenido mediante bloques específicos dirigidos a Médicos, Administradores y Pacientes, permitiendo que cada perfil identifique su propuesta de valor rápidamente.
+* **Por Tópicos:** La navegación de la Web App agrupa las funciones según el dominio del negocio (ej. "Órdenes" agrupa laboratorio e imágenes; "Facturación" agrupa cobros, reportes de caja y liquidaciones).
+* **Cronológico:** Aplicado de manera estricta dentro del módulo de Historia Clínica Electrónica (HCE) y la Agenda, organizando las atenciones, diagnósticos y reservas desde lo más reciente a lo más antiguo.
 
 ### 4.2.2. Labeling Systems
 
+El sistema de etiquetado en Vitalia prioriza la simplicidad, buscando evitar la confusión técnica o médica en los pacientes, mientras mantiene el rigor profesional para el personal del policlínico. Se utilizan etiquetas cortas y representativas que asocian claramente el término con la funcionalidad esperada.
 
+**Etiquetas para el Personal Médico y Administrativo (Profesional)**
+
+| Etiqueta | Nivel de Organización | Significado / Asociación |
+| --- | --- | --- |
+| **Dashboard** | Módulo Principal | Panel de control con métricas rápidas del día y estado de la clínica. |
+| **Agenda** | Módulo Principal | Calendario maestro de citas, bloqueos de horarios y consultorios. |
+| **Patients** | Módulo Principal | Padrón demográfico e ingreso a la Historia Clínica Electrónica (HCE). |
+| **Orders** | Módulo Secundario | Gestión de solicitudes y resultados de exámenes auxiliares (laboratorio). |
+| **Billing** | Módulo Secundario | Gestión de comprobantes electrónicos, caja y liquidación de comisiones. |
+
+**Etiquetas para los Pacientes (Simplificado y Personalizado)**
+
+| Etiqueta | Nivel de Organización | Significado / Asociación |
+| --- | --- | --- |
+| **My Appointments** | Módulo Principal | Acceso directo para ver sus próximas visitas médicas o agendar una nueva. |
+| **My History** | Módulo Principal | Su historial clínico resumido, diagnósticos pasados y antecedentes. |
+| **Prescriptions** | Módulo Principal | Repositorio de recetas médicas digitales listas para su descarga. |
+| **Settings** | Perfil de Usuario | Configuración de cuenta, preferencias de notificaciones y seguridad. |
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+Para asegurar la correcta indexación en motores de búsqueda y la presentación adecuada al compartir los enlaces, se han definido las siguientes etiquetas para las páginas de acceso público de la plataforma.
 
+| Atributo | Landing Page (Comercial) | Web App (Login / Portal) |
+| --- | --- | --- |
+| **Title** | Vitalia by KinetiaLabs \| El SaaS Integral para Policlínicos | Vitalia App \| Iniciar Sesión |
+| **Meta Description** | Centraliza tu policlínico: citas, historia clínica, farmacia y facturación en un solo sistema. Optimiza la gestión clínica de forma fácil y segura. | Accede a tu portal seguro en Vitalia. Gestiona tus citas médicas, revisa tus resultados y conéctate con tu clínica. |
+| **Meta Keywords** | software para clinicas, historia clinica electronica peru, saas medico, gestion de policlinicos, facturacion medica, KinetiaLabs | vitalia login, portal del paciente, acceso medicos vitalia, historial clinico online |
+| **Meta Author** | KinetiaLabs | KinetiaLabs |
 
 ### 4.2.4. Searching Systems
 
+Vitalia procesa grandes volúmenes de datos diarios. Para evitar que los usuarios se sientan perdidos o abrumados, se ha implementado un sistema de búsqueda ubicuo y con filtros eficientes.
 
+**Búsqueda Global (Médicos y Administradores)**
+
+* **Opciones de búsqueda:** Barra persistente en la cabecera superior capaz de buscar por Nombre de Paciente, DNI o ID de cita.
+* **Filtros:** Al interactuar con vistas de tablas (ej. Facturación), se activan filtros por rango de fechas, especialidad o estado (Completado/Pendiente).
+* **Presentación de resultados:** La búsqueda principal utiliza un *auto-complete dropdown* que muestra resultados rápidos conforme el usuario escribe. Si se presiona "Enter", redirige a una lista estructurada y paginada con coincidencias exactas.
+
+**Búsqueda para Pacientes**
+
+* **Opciones de búsqueda:** Durante el flujo de reserva de citas, los pacientes cuentan con un buscador enfocado en Especialidades (ej. Cardiología) o Nombre del Médico.
+* **Presentación de resultados:** Tarjetas visuales (Cards) del staff médico con su foto, disponibilidad más próxima y un botón directo de "Book Appointment".
 
 ### 4.2.5. Navigation Systems
 
+El sistema de navegación define las acciones y técnicas que guían a los usuarios a través de la plataforma, asegurando que puedan cumplir sus metas de forma intuitiva. Se han diseñado dos sistemas paralelos según el producto:
 
+**Navegación en Landing Page**
 
+* **Sticky Header:** Barra de navegación superior fija que permite saltar mediante *anchor links* a las secciones de la página (Features, Segments, Pricing, Contact).
+* **Call-to-Action (CTA):** Botones prominentes en color primario con el texto "Request a Demo" ubicados estratégicamente al inicio y al final del recorrido para guiar la conversión.
+
+**Navegación en Web Application**
+
+* **Left Sidebar Navigation:** Menú lateral fijo que aloja los módulos principales (Dashboard, Agenda, Patients, etc.). En dispositivos móviles (Mobile Web), este panel colapsa en un menú hamburguesa (Drawer) u ocupa una *Bottom Navigation Bar* para acciones frecuentes.
+* **Breadcrumbs (Migas de Pan):** Utilizado en la parte superior del área de contenido para ubicar al usuario en niveles profundos. *Ejemplo: Patients > Javier Morales > Consultation 14/04*.
+* **Profile Block:** Ubicado estáticamente en la parte inferior izquierda del Sidebar, consolidando el acceso a configuraciones de cuenta y desconexión segura sin ensuciar la navegación operativa.
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
