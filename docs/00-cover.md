@@ -50,6 +50,8 @@
 | 0.1.11 | 23/4/26 | @AdrixRyz | docs: añadir todos los puntos de style guidelines |
 | 0.1.12 | 23/4/26 | @Leotens | docs: añadir todos los puntos del capitulo 3 |
 | 0.1.13 | 24/4/26 | @AleeAsto | docs: añadir landing page ui design |
+| 0.1.14 | 25/4/26 | @nes-ro | docs: añadir todos los puntos de domain-driven software architecture |
+| 0.1.15 | 25/4/26 | @nes-ro | docs: añadir database design diagram |
 
 # Project Report Collaboration Insights
 
