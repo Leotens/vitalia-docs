@@ -54,6 +54,7 @@
 | 0.1.15 | 25/4/26 | @nes-ro | docs: añadir database design diagram |
 | 0.1.16 | 24/4/26 | @kamil-tron | docs: añadir el diagrama de clases |
 | 0.1.17 | 25/4/26 | @kamil-tron | docs: añadir todos los puntos de Information Architecture |
+| 0.1.18 | 25/4/26 | @AleeAsto | docs: añadir sprint 1 |
 
 # Project Report Collaboration Insights
 

@@ -128,6 +128,16 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
       <td>AleeAsto</td>
       <td>Completed</td>
     </tr>
+    <tr>
+      <td>US045</td>
+      <td>Cambio de idioma en landing page</td>
+      <td>TO09</td>
+      <td>Idioma</td>
+      <td>Agregar idiomas en landing page</td>
+      <td>1</td>
+      <td>nes-ro</td>
+      <td>Completed</td>
+    </tr>
   </tbody>
 </table>
 
@@ -249,6 +259,14 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
       <td> - </td>
       <td>Abril 25, 2026</td>
     </tr>
+    <tr>
+      <td>vitalia-landing</td>
+      <td>develop</td>
+      <td> </td>
+      <td>feat: add language modificator</td>
+      <td> - </td>
+      <td>Abril 25, 2026</td>
+    </tr>
   </tbody>
 </table>
 
@@ -257,6 +275,7 @@ Para el desarrolo del primer sprint nos centramos en el desarrollo de la landing
 Durante este Sprint se completaron las principales vistas del Landing Page de Vitalia y se integraron las funcionalidades básicas de navegación, logrando un primer incremento completamente navegable. Se implementaron secciones clave como Funcionalidades, Planes, Contacto, Sobre Nosotros y Clientes, permitiendo presentar de manera clara la propuesta de valor del servicio.
 
 #### *5.2.1.6. Services Documentation Evidence for Sprint Review*
+
 Durante el presente Sprint no se desarrollaron Web Services ni endpoints, ya que el alcance del trabajo se centró en el diseño y desarrollo de una landing page estática orientada a la presentación del producto.
 
 En esta etapa, el enfoque estuvo en la definición de la interfaz de usuario y la experiencia del usuario, por lo que no se implementaron servicios backend ni APIs que requieran documentación mediante OpenAPI.
@@ -266,6 +285,10 @@ Se prevé que en futuros Sprints, conforme se integren funcionalidades dinámica
 #### *5.2.1.7. Software Deployment Evidence for Sprint Review*
 
 El despliegue se realizará mediante GitHub Pages, una plataforma gratuita de GitHub que permite publicar sitios web estáticos directamente desde el repositorio de código fuente, sin necesidad de configurar servidores adicionales. 
+
+<img src="../assets/images/figures/xx-deployment-evidence1.png" alt="deployment-evidence1" style="width: 100vw;"/>
+
+<img src="../assets/images/figures/xx-deployment-evidence2.png" alt="deployment-evidence2" style="width: 100vw;"/>
 
 **Procedimiento planificado:** 
 
@@ -282,3 +305,7 @@ El despliegue se realizará mediante GitHub Pages, una plataforma gratuita de Gi
 Cuando el proyecto esté en fase de mantenimiento, las actualizaciones se gestionarán mediante commits y merges hacia la rama main. Cada cambio publicado en esta rama generará automáticamente una nueva versión desplegada del sitio.
 
 #### *5.2.1.8. Team Collaboration Insights during Sprint*
+
+<img src="../assets/images/figures/xx-collab-insight-1.png" alt="collab-insights1"  style="width: 100vw;"/>
+
+<img src="../assets/images/figures/xx-collab-insight-2.png" alt="collab-insights3" style="width: 100vw;"/>
